@@ -1,0 +1,1685 @@
+{
+    "section": {
+        "title": "Oslo"
+    },
+    "teasers": [
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:Ky65mM",
+                "expandedUri": "https://www.aftenposten.no/oslo/i/Ky65mM/oslo-politiet-har-registrert-360-koronasaker"
+            },
+            "title": {
+                "value": "Oslo-politiet: Har registrert 360 koronasaker"
+            },
+            "standfirst": {
+                "value": "Oslo-politiet har hittil registrert 360 koronasaker siden det ble innført restriksjoner og smittevernregler. I 30 saker har personer truet med å smitte politifolk eller andre med korona. "
+            },
+            "label": {
+                "value": "OSLO"
+            },
+            "text": {
+                "value": "Oslo-politiet har hittil registrert 360 koronasaker siden det ble innført restriksjoner og smittevernregler."
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "8ae9b238-ec93-4d4d-b3fa-bb406e81718f",
+                    "size": {
+                        "width": 4843,
+                        "height": 3229
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8ae9b238-ec93-4d4d-b3fa-bb406e81718f?fit=crop&h=56&tight=true&w=100&s=ba5baf325ac775bbd832c0f5aeec707d75ef9ccb",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8ae9b238-ec93-4d4d-b3fa-bb406e81718f?fit=crop&h=113&tight=true&w=200&s=9a9becb0744130c9aace76afdfa6c2b5d1810467",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8ae9b238-ec93-4d4d-b3fa-bb406e81718f?fit=crop&h=214&tight=true&w=380&s=e1a3d083d6f56e25a833aa3ad174a52dcf00f1a1",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8ae9b238-ec93-4d4d-b3fa-bb406e81718f?fit=crop&h=326&tight=true&w=580&s=d52465ceb7406a5f945064c8d0eab1862afecb21",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8ae9b238-ec93-4d4d-b3fa-bb406e81718f?fit=crop&h=439&tight=true&w=780&s=46e852cbdccb20e2508f861f7980d99aad52c0fc",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8ae9b238-ec93-4d4d-b3fa-bb406e81718f?fit=crop&h=551&tight=true&w=980&s=52939e195c51bd2be7b09f0c137023bccaf9d7c1",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8ae9b238-ec93-4d4d-b3fa-bb406e81718f?fit=crop&h=576&tight=true&w=1024&s=7c05e125559667dcde4cc5a8070896307d43e00a",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8ae9b238-ec93-4d4d-b3fa-bb406e81718f?fit=crop&h=810&tight=true&w=1440&s=058750bd017537f8da003e7e987f9bd9809a20a0",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8ae9b238-ec93-4d4d-b3fa-bb406e81718f?fit=crop&h=1152&tight=true&w=2048&s=5d69dc4c845e933ca1dd505a74b7401fbeb607ee",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-13T10:55:54Z",
+            "changes": {
+                "created": "2021-01-13T08:21:01Z",
+                "updated": "2021-01-13T14:35:14Z",
+                "firstPublished": "2021-01-13T10:55:54Z",
+                "published": "2021-01-13T10:55:54Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 60
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "small",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "Ky65mM"
+            },
+            "access": {
+                "restrictions": [
+                    "automatic"
+                ]
+            },
+            "authors": [
+                {
+                    "id": "cb000bb7-222f-4e6a-b4fa-63bd137f3dad",
+                    "title": "Thomas Olsen",
+                    "description": "Journalist",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "thomas.olsen@aftenposten.no"
+                        },
+                        {
+                            "type": "email",
+                            "value": "thomas.olsen1@aftenposten.no"
+                        },
+                        {
+                            "type": "email",
+                            "value": "to@ap.no"
+                        }
+                    ],
+                    "slug": "thomas-olsen-7"
+                }
+            ]
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:M36yEB",
+                "expandedUri": "https://www.aftenposten.no/e24/i/zgMp0v"
+            },
+            "title": {
+                "value": "70 prosent margin for elsparkesykkel-gigant i Oslo"
+            },
+            "standfirst": {
+                "value": "Den norske hovedstaden er blitt en pengemaskin med 70 prosents margin for det svenske elsparkesykkelselskapet Voi, ifølge en selskapspresentasjon."
+            },
+            "label": {
+                "value": "ØKONOMI"
+            },
+            "text": {
+                "value": "Den norske hovedstaden er blitt en pengemaskin med 70 prosents margin for det svenske elsparkesykkelselskapet…"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "90ba361c-1079-4fc8-b791-1499e30f0cd3",
+                    "size": {
+                        "width": 5990,
+                        "height": 3922
+                    },
+                    "hotspot": {
+                        "x": 225,
+                        "y": 0,
+                        "width": 5078,
+                        "height": 3812
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/90ba361c-1079-4fc8-b791-1499e30f0cd3?fit=crop&h=56&tight=true&w=100&s=e16a581eb619c0388b2cd28b751417fb504622d2",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/90ba361c-1079-4fc8-b791-1499e30f0cd3?fit=crop&h=113&tight=true&w=200&s=0cc4d0b3d3cd5cd4c21104f21e093dc5f9c95cf9",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/90ba361c-1079-4fc8-b791-1499e30f0cd3?fit=crop&h=214&tight=true&w=380&s=1938472426b711199635912b628baa68fae9205a",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/90ba361c-1079-4fc8-b791-1499e30f0cd3?fit=crop&h=326&tight=true&w=580&s=8d6e3e2db5bdb1d8b250ad4fbb7eeef5f3f726c2",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/90ba361c-1079-4fc8-b791-1499e30f0cd3?fit=crop&h=439&tight=true&w=780&s=01c89d79174fe0e03278d1a2f7abab1bd5ff26fe",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/90ba361c-1079-4fc8-b791-1499e30f0cd3?fit=crop&h=551&tight=true&w=980&s=13262dfd5f7815709fa4ae8a86fcb1ff5cddcc35",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/90ba361c-1079-4fc8-b791-1499e30f0cd3?fit=crop&h=576&tight=true&w=1024&s=91e29c8b11362a48d3993287f6e4c0abb8856420",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/90ba361c-1079-4fc8-b791-1499e30f0cd3?fit=crop&h=810&tight=true&w=1440&s=0ca52f7c8f347d921230d88aa8f4be3d370d2752",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/90ba361c-1079-4fc8-b791-1499e30f0cd3?fit=crop&h=1152&tight=true&w=2048&s=1de1439ae4121b8f048e8422d90e49736519e45c",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-13T05:56:03Z",
+            "changes": {
+                "created": "2021-01-13T05:55:17Z",
+                "updated": "2021-01-13T08:36:44Z",
+                "firstPublished": "2021-01-13T05:56:03Z",
+                "published": "2021-01-13T05:56:03Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "small",
+                "sourceId": "e24",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "M36yEB",
+                "immediateArticleId": "zgMp0v"
+            },
+            "access": {
+                "restrictions": []
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:rgz23K",
+                "expandedUri": "https://www.aftenposten.no/oslo/i/rgz23K/krass-kritikk-mot-ny-obos-bydel-for-stort-moerkt-og-hoeyt"
+            },
+            "title": {
+                "value": "Obos har fått ros for å bygge på Ulven. Men ekspertene lurer på om det blir bra å bo der."
+            },
+            "standfirst": {
+                "value": "Obos har fått ros for å starte utbyggingen på Ulven. Men hvor bra blir det å bo der, spør ekspertene.\n"
+            },
+            "label": {
+                "value": "OSLO"
+            },
+            "text": {
+                "value": "Obos har fått ros for å starte utbyggingen på Ulven. Men hvor bra blir det å bo der, spør ekspertene.\n"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "88801179-2918-439b-84ee-ffc3ec917afd",
+                    "size": {
+                        "width": 4282,
+                        "height": 2855
+                    },
+                    "hotspot": {
+                        "x": 483,
+                        "y": 137,
+                        "width": 3372,
+                        "height": 2527
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/88801179-2918-439b-84ee-ffc3ec917afd?fit=crop&h=56&tight=true&w=100&s=f9d46643266868b1f760a4d08c9150e10213b038",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/88801179-2918-439b-84ee-ffc3ec917afd?fit=crop&h=113&tight=true&w=200&s=51c71ca374f4437d942c63b185b4f4e9f903bc8f",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/88801179-2918-439b-84ee-ffc3ec917afd?fit=crop&h=214&tight=true&w=380&s=d2d18e490c07ee5032893ce31b689caca2809bf2",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/88801179-2918-439b-84ee-ffc3ec917afd?fit=crop&h=326&tight=true&w=580&s=2a444f2f9acdc81c13290e24989cff6299950f9c",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/88801179-2918-439b-84ee-ffc3ec917afd?fit=crop&h=439&tight=true&w=780&s=f9fc742576c2b202250b820a3a65947555d67a40",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/88801179-2918-439b-84ee-ffc3ec917afd?fit=crop&h=551&tight=true&w=980&s=03c3f13803734b48d037b36916a6aa2ae407a057",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/88801179-2918-439b-84ee-ffc3ec917afd?fit=crop&h=576&tight=true&w=1024&s=b93634e3b8035a6fc9357c591a510ebac4ecacc2",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/88801179-2918-439b-84ee-ffc3ec917afd?fit=crop&h=810&tight=true&w=1440&s=3a843f084450c32e4bfcb425654e9e35d589498a",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/88801179-2918-439b-84ee-ffc3ec917afd?fit=crop&h=1152&tight=true&w=2048&s=37b394137324ec5c352af565c33666594dc167d2",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-12T15:24:50Z",
+            "changes": {
+                "created": "2021-01-11T11:58:29Z",
+                "updated": "2021-01-13T09:42:50Z",
+                "firstPublished": "2021-01-12T15:24:50Z",
+                "published": "2021-01-12T15:24:50Z"
+            },
+            "characteristics": {
+                "lifetime": 40,
+                "hotness": 70
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "large",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "rgz23K"
+            },
+            "access": {
+                "restrictions": [
+                    "closed"
+                ]
+            },
+            "authors": [
+                {
+                    "id": "82e6dec2-8359-4c0a-aa1d-81652d66b781",
+                    "title": "Hilde Lundgaard",
+                    "description": "",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "hilde.lundgaard@aftenposten.no"
+                        }
+                    ],
+                    "image": "eae4f8db-36c9-494f-96bc-e77e57f6c879",
+                    "imageAsset": {
+                        "id": "eae4f8db-36c9-494f-96bc-e77e57f6c879"
+                    },
+                    "slug": "hilde-lundgaard"
+                }
+            ]
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:eKznnK",
+                "expandedUri": "https://www.aftenposten.no/oslo/i/eKznnK/guide-til-arkitekturperler-i-hovedstaden"
+            },
+            "kicker": {
+                "value": "Kulturopplevelser i en koronastengt by"
+            },
+            "title": {
+                "value": "Åtte arkitekturperler i hovedstaden"
+            },
+            "standfirst": {
+                "value": "Ta en tur til ekspertenes favorittbygninger. Det er én av få kulturopplevelser som fortsatt er mulig i Oslo nå."
+            },
+            "label": {
+                "value": "OSLO"
+            },
+            "text": {
+                "value": "Ta en tur til ekspertenes favorittbygninger. Det er én av få kulturopplevelser som fortsatt er mulig i Oslo nå."
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "8a4de9ac-f279-4521-b6b0-f581f968335f",
+                    "size": {
+                        "width": 6682,
+                        "height": 4460
+                    },
+                    "hotspot": {
+                        "x": 1130,
+                        "y": 1030,
+                        "width": 4237,
+                        "height": 3179
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8a4de9ac-f279-4521-b6b0-f581f968335f?fit=crop&h=56&tight=true&w=100&s=d714d429ea7d281531363dd6ab7e3ae66b075cc8",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8a4de9ac-f279-4521-b6b0-f581f968335f?fit=crop&h=113&tight=true&w=200&s=c5908fd48f856238cccd47cd45e49e2a119da6a9",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8a4de9ac-f279-4521-b6b0-f581f968335f?fit=crop&h=214&tight=true&w=380&s=2c8c25f48b7bac50653b5c1f164ed3ecd1405fa7",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8a4de9ac-f279-4521-b6b0-f581f968335f?fit=crop&h=326&tight=true&w=580&s=98ff48a7eaa11f1a7d2d9b363a61096b091c82ea",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8a4de9ac-f279-4521-b6b0-f581f968335f?fit=crop&h=439&tight=true&w=780&s=29ff084ae686e0c12960abc9a85c9598315faadf",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8a4de9ac-f279-4521-b6b0-f581f968335f?fit=crop&h=551&tight=true&w=980&s=4ffd55c9b03cc9ef372d8f94968acf9995274838",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8a4de9ac-f279-4521-b6b0-f581f968335f?fit=crop&h=576&tight=true&w=1024&s=2923e856776dd8f51e2081d0970e4b06f46dab9a",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8a4de9ac-f279-4521-b6b0-f581f968335f?fit=crop&h=810&tight=true&w=1440&s=fa8a5c4ba98f6bb26b160c4407b063768a734314",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/8a4de9ac-f279-4521-b6b0-f581f968335f?fit=crop&h=1152&tight=true&w=2048&s=faa2c75f4839652f6f1b95f20176176d519cfdeb",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-12T12:44:56Z",
+            "changes": {
+                "created": "2020-12-17T10:41:44Z",
+                "updated": "2021-01-13T14:38:02Z",
+                "firstPublished": "2021-01-12T12:44:56Z",
+                "published": "2021-01-12T12:44:56Z"
+            },
+            "characteristics": {
+                "lifetime": 60,
+                "hotness": 60
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "medium",
+                "presentationType": "feature",
+                "doNotBundle": false,
+                "id": "eKznnK"
+            },
+            "access": {
+                "restrictions": []
+            },
+            "authors": [
+                {
+                    "id": "5291f531-4024-4ae2-bf77-e3f04b3d3895",
+                    "title": "Kristian Havnes Klemetzen",
+                    "description": "Journalist ",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "kristian.klemetzen@aftenposten.no"
+                        }
+                    ],
+                    "slug": "kristian-havnes-klemetzen"
+                }
+            ]
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:oAkO6j",
+                "expandedUri": "https://www.aftenposten.no/bolig/i/oAkO6j/kompisene-tok-en-uvanlig-avgjoerelse-i-boligmarkedet-det-var-aldri-a"
+            },
+            "title": {
+                "value": "Kompisene tok en uvanlig avgjørelse i boligmarkedet: – Det var aldri aktuelt å kjøpe alene"
+            },
+            "standfirst": {
+                "value": "Vennekjøp øker med boligprisene. Det kan være mer risikabelt enn å kjøpe med kjæreste. "
+            },
+            "label": {
+                "value": "BOLIG"
+            },
+            "text": {
+                "value": "Vennekjøp øker med boligprisene. Det kan være mer risikabelt enn å kjøpe med kjæreste. "
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "5381bfe5-27a3-48b4-84bb-3ff1e9ce4688",
+                    "size": {
+                        "width": 7875,
+                        "height": 5250
+                    },
+                    "hotspot": {
+                        "x": 459,
+                        "y": 727,
+                        "width": 6019,
+                        "height": 4523
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/5381bfe5-27a3-48b4-84bb-3ff1e9ce4688?fit=crop&h=56&tight=true&w=100&s=429085e63be73eedce8127d02497e88e0e879083",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/5381bfe5-27a3-48b4-84bb-3ff1e9ce4688?fit=crop&h=113&tight=true&w=200&s=78653ac30687baeee95e0306479b694d47420e32",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/5381bfe5-27a3-48b4-84bb-3ff1e9ce4688?fit=crop&h=214&tight=true&w=380&s=af80bb4a7951ec8b322c0938ffa8c428a0623476",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/5381bfe5-27a3-48b4-84bb-3ff1e9ce4688?fit=crop&h=326&tight=true&w=580&s=39c1bb1006b84b4b3039c75e438e15217df68793",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/5381bfe5-27a3-48b4-84bb-3ff1e9ce4688?fit=crop&h=439&tight=true&w=780&s=fedde425f561fbe35e314f89fdf52a1c20e9a5b5",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/5381bfe5-27a3-48b4-84bb-3ff1e9ce4688?fit=crop&h=551&tight=true&w=980&s=9a5d927def072d031d87b9ac7c5b5e77733ff216",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/5381bfe5-27a3-48b4-84bb-3ff1e9ce4688?fit=crop&h=576&tight=true&w=1024&s=5d93395768952944823b096e53712f20f17ff7cb",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/5381bfe5-27a3-48b4-84bb-3ff1e9ce4688?fit=crop&h=810&tight=true&w=1440&s=ebffcc3adfc4c13b457c5f32107a00eb44c210cf",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/5381bfe5-27a3-48b4-84bb-3ff1e9ce4688?fit=crop&h=1152&tight=true&w=2048&s=232b0268dc2ad6b812d9670e109687e692eac9f1",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-12T08:25:22Z",
+            "changes": {
+                "created": "2021-01-11T17:00:09Z",
+                "updated": "2021-01-12T18:18:06Z",
+                "firstPublished": "2021-01-11T17:00:09Z",
+                "published": "2021-01-12T08:25:22Z"
+            },
+            "characteristics": {
+                "lifetime": 60,
+                "hotness": 60
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": true,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "medium",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "oAkO6j",
+                "sourceId": "riks",
+                "immediateArticleId": "9OBdvl"
+            },
+            "access": {
+                "restrictions": [
+                    "closed"
+                ]
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:qAJbym",
+                "expandedUri": "https://www.aftenposten.no/kultur/i/qAJbym/audun-lysbakken-i-mitt-oslo-holmlia-ligner-paa-bergen-heldigvis"
+            },
+            "kicker": {
+                "value": "«Mitt Oslo»:"
+            },
+            "title": {
+                "value": "Audun Lysbakken: – Holmlia ligner på Bergen. Heldigvis! "
+            },
+            "standfirst": {
+                "value": "Som 18-åring ble Audun Lysbakken arrestert, hjemme i Bergen. Her og nå vil SV-lederen arrestere Aftenpostens Oslo-dekning. "
+            },
+            "label": {
+                "value": "KULTUR"
+            },
+            "text": {
+                "value": "Som 18-åring ble Audun Lysbakken arrestert, hjemme i Bergen. Her og nå vil SV-lederen arrestere Aftenpostens…"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "be4be246-c965-4f29-a361-cd124a08e993",
+                    "size": {
+                        "width": 6146,
+                        "height": 4091
+                    },
+                    "hotspot": {
+                        "x": 1687,
+                        "y": 0,
+                        "width": 2834,
+                        "height": 2126
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/be4be246-c965-4f29-a361-cd124a08e993?fit=crop&h=56&tight=true&w=100&s=4b467014bc1ea23a49979ef632e60eaf3bf2821d",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/be4be246-c965-4f29-a361-cd124a08e993?fit=crop&h=113&tight=true&w=200&s=f68bc5d1714721fec4de88991ea1a5830c9e9310",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/be4be246-c965-4f29-a361-cd124a08e993?fit=crop&h=214&tight=true&w=380&s=2c2f832db8b125bd1605ec31f70a4bde20f54fa7",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/be4be246-c965-4f29-a361-cd124a08e993?fit=crop&h=326&tight=true&w=580&s=58cbd8002f834d834b71de421b53a9b20951e7b0",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/be4be246-c965-4f29-a361-cd124a08e993?fit=crop&h=439&tight=true&w=780&s=045e37da4e6d89b588c96cfec7bd6c0a3034714b",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/be4be246-c965-4f29-a361-cd124a08e993?fit=crop&h=551&tight=true&w=980&s=8bb0df4988d76326f4fe8bf7c441e9c52db7657e",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/be4be246-c965-4f29-a361-cd124a08e993?fit=crop&h=576&tight=true&w=1024&s=fa6d8b0ff153ec986c525a244b3ad7d3522813e0",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/be4be246-c965-4f29-a361-cd124a08e993?fit=crop&h=810&tight=true&w=1440&s=5f0422aa28333d277d4403f8390159620a899dbe",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/be4be246-c965-4f29-a361-cd124a08e993?fit=crop&h=1152&tight=true&w=2048&s=f0e58eee9be042b854bfa4efd17b497f48fdff82",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-10T15:32:48Z",
+            "changes": {
+                "created": "2021-01-05T13:59:50Z",
+                "updated": "2021-01-12T09:38:21Z",
+                "firstPublished": "2021-01-10T08:00:00Z",
+                "published": "2021-01-10T15:32:48Z"
+            },
+            "characteristics": {
+                "lifetime": 40,
+                "hotness": 60
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "medium",
+                "presentationType": "feature",
+                "doNotBundle": false,
+                "id": "qAJbym"
+            },
+            "access": {
+                "restrictions": [
+                    "closed"
+                ]
+            },
+            "authors": [
+                {
+                    "id": "20080233-674c-45cd-a4dc-0d382e58bf66",
+                    "title": "Sturle Scholz Nærø",
+                    "description": "",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "sturle.nero@aftenposten.no"
+                        }
+                    ],
+                    "slug": "sturle-scholz-naeroe"
+                }
+            ]
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:0K9qx2",
+                "expandedUri": "https://www.aftenposten.no/oslo/i/0K9qx2/oslos-aller-ferskeste-bydel"
+            },
+            "title": {
+                "value": "Snart bor det flere tusen mennesker her. Men de færreste Oslo-folk vet hvor det er."
+            },
+            "standfirst": {
+                "value": "Få trodde det var mulig å få noe ut av området. Til sommeren flytter de første beboerne inn.\n"
+            },
+            "label": {
+                "value": "OSLO"
+            },
+            "text": {
+                "value": "Få trodde det var mulig å få noe ut av området. Til sommeren flytter de første beboerne inn.\n"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "32c92ecb-1785-45c0-ba89-ef266049e4aa",
+                    "size": {
+                        "width": 4274,
+                        "height": 2849
+                    },
+                    "hotspot": {
+                        "x": 394,
+                        "y": 273,
+                        "width": 3438,
+                        "height": 2576
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/32c92ecb-1785-45c0-ba89-ef266049e4aa?fit=crop&h=56&tight=true&w=100&s=85d20961f33e1939b9b27e98d37949d81dbfcab9",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/32c92ecb-1785-45c0-ba89-ef266049e4aa?fit=crop&h=113&tight=true&w=200&s=ee1bbbffb88e9722a3186132c19a32d770bb48c9",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/32c92ecb-1785-45c0-ba89-ef266049e4aa?fit=crop&h=214&tight=true&w=380&s=819f29355ca1e035a52a37555f87b7ef8a81f1ce",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/32c92ecb-1785-45c0-ba89-ef266049e4aa?fit=crop&h=326&tight=true&w=580&s=8d35438442422f7337651809268396aa21b4af5d",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/32c92ecb-1785-45c0-ba89-ef266049e4aa?fit=crop&h=439&tight=true&w=780&s=91bbb97a6b48f5010d5b64c9cc330fbf35c4d296",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/32c92ecb-1785-45c0-ba89-ef266049e4aa?fit=crop&h=551&tight=true&w=980&s=23b98667e1d7139eeb94d44d42cda2ec9887815b",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/32c92ecb-1785-45c0-ba89-ef266049e4aa?fit=crop&h=576&tight=true&w=1024&s=5b4b13939330395d71725293e9ead444210bed12",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/32c92ecb-1785-45c0-ba89-ef266049e4aa?fit=crop&h=810&tight=true&w=1440&s=73f7a94a2c5aa3da8969aa754b3dab5b23cda902",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/32c92ecb-1785-45c0-ba89-ef266049e4aa?fit=crop&h=1152&tight=true&w=2048&s=141baed67603bf700a5a9683a0bca3e27c8c78f6",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-10T07:56:23Z",
+            "changes": {
+                "created": "2021-01-07T08:25:28Z",
+                "updated": "2021-01-13T09:40:39Z",
+                "firstPublished": "2021-01-08T20:41:59Z",
+                "published": "2021-01-10T07:56:23Z"
+            },
+            "characteristics": {
+                "lifetime": 40,
+                "hotness": 80
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": true,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "medium",
+                "presentationType": "feature",
+                "doNotBundle": false,
+                "id": "0K9qx2"
+            },
+            "access": {
+                "restrictions": [
+                    "closed"
+                ]
+            },
+            "authors": [
+                {
+                    "id": "82e6dec2-8359-4c0a-aa1d-81652d66b781",
+                    "title": "Hilde Lundgaard",
+                    "description": "",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "hilde.lundgaard@aftenposten.no"
+                        }
+                    ],
+                    "image": "eae4f8db-36c9-494f-96bc-e77e57f6c879",
+                    "imageAsset": {
+                        "id": "eae4f8db-36c9-494f-96bc-e77e57f6c879"
+                    },
+                    "slug": "hilde-lundgaard"
+                },
+                {
+                    "id": "10dbac3e-7cc1-4644-a427-5ba968c98a5e",
+                    "title": "Olav Olsen (foto)",
+                    "description": "",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "olav.olsen@aftenposten.no"
+                        }
+                    ],
+                    "slug": "olav-olsen-foto"
+                },
+                {
+                    "id": "56119128-8405-4dca-99fa-c4e5d8c42d48",
+                    "title": "Morten Uglum ",
+                    "description": "Fotograf",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "morten.uglum@aftenposten.no"
+                        }
+                    ],
+                    "image": "992f19f4-8e47-4218-8b89-e85f0eea0100",
+                    "imageAsset": {
+                        "id": "992f19f4-8e47-4218-8b89-e85f0eea0100"
+                    },
+                    "slug": "morten-uglum"
+                }
+            ]
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:eKaokK",
+                "expandedUri": "https://www.aftenposten.no/oslo/i/eKaokK/vi-saa-etter-kaos-vi-fant-fornuft-i-oslo-marka-og-paa-t-banen"
+            },
+            "title": {
+                "value": "Forrige helg ble det kollektivkaos. I dag gjorde Oslo-folk alt for å komme seg smittesikkert ut i Marka."
+            },
+            "standfirst": {
+                "value": "Noen syklet med ski i sekken. Andre igjen startet skituren i mørket. Oslo-folk anstrengte seg for å unngå smittepøler og kollektiv kollaps."
+            },
+            "label": {
+                "value": "OSLO"
+            },
+            "text": {
+                "value": "Noen syklet med ski i sekken. Andre igjen startet skituren i mørket. Oslo-folk anstrengte seg for å unngå smittepøler og…"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "c73f17dd-0297-4a92-a225-6cb6ab9c9b75",
+                    "size": {
+                        "width": 6720,
+                        "height": 4480
+                    },
+                    "hotspot": {
+                        "x": 366,
+                        "y": 165,
+                        "width": 5069,
+                        "height": 3809
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c73f17dd-0297-4a92-a225-6cb6ab9c9b75?fit=crop&h=56&tight=true&w=100&s=9e96162b593643d8e7c81798be3634145f238091",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c73f17dd-0297-4a92-a225-6cb6ab9c9b75?fit=crop&h=113&tight=true&w=200&s=a295145dda55cf5f892b9b490b9393d7c51838f6",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c73f17dd-0297-4a92-a225-6cb6ab9c9b75?fit=crop&h=214&tight=true&w=380&s=5d526c3e47b83acf1719bbf46fbbb6df722ac227",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c73f17dd-0297-4a92-a225-6cb6ab9c9b75?fit=crop&h=326&tight=true&w=580&s=c099dc7b0b83f031c1fee96f7418aa22c7cb374a",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c73f17dd-0297-4a92-a225-6cb6ab9c9b75?fit=crop&h=439&tight=true&w=780&s=f137a18853a3e9bbf3474689987ca4be15397a3d",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c73f17dd-0297-4a92-a225-6cb6ab9c9b75?fit=crop&h=551&tight=true&w=980&s=a18d58c420a23eb70d8f79f38597ef8e872e3fc7",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c73f17dd-0297-4a92-a225-6cb6ab9c9b75?fit=crop&h=576&tight=true&w=1024&s=df63b918795c22ed4e82ce26eed70792a7160239",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c73f17dd-0297-4a92-a225-6cb6ab9c9b75?fit=crop&h=810&tight=true&w=1440&s=c411743f4913f9f0aaa2c25455e93e1f79ce6be6",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c73f17dd-0297-4a92-a225-6cb6ab9c9b75?fit=crop&h=1152&tight=true&w=2048&s=e99cf5621c74f8f7d1b67f5e0e3f0d7c96483391",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-09T15:09:08Z",
+            "changes": {
+                "created": "2021-01-09T12:41:34Z",
+                "updated": "2021-01-12T15:04:40Z",
+                "firstPublished": "2021-01-09T15:09:08Z",
+                "published": "2021-01-09T15:09:08Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 70
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "medium",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "eKaokK"
+            },
+            "access": {
+                "restrictions": [
+                    "automatic"
+                ]
+            },
+            "authors": [
+                {
+                    "id": "a795cab7-9c9b-4967-a0fc-904d5560a90f",
+                    "title": "Bjørn Egil Halvorsen",
+                    "description": "Journalist",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "bjorn.egil.halvorsen@aftenposten.no"
+                        }
+                    ],
+                    "image": "a674959a-e7b8-49a2-addf-a44e7cb9599e",
+                    "imageAsset": {
+                        "id": "a674959a-e7b8-49a2-addf-a44e7cb9599e"
+                    },
+                    "slug": "bjoern-egil-halvorsen"
+                },
+                {
+                    "id": "56119128-8405-4dca-99fa-c4e5d8c42d48",
+                    "title": "Morten Uglum ",
+                    "description": "Fotograf",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "morten.uglum@aftenposten.no"
+                        }
+                    ],
+                    "image": "992f19f4-8e47-4218-8b89-e85f0eea0100",
+                    "imageAsset": {
+                        "id": "992f19f4-8e47-4218-8b89-e85f0eea0100"
+                    },
+                    "slug": "morten-uglum"
+                }
+            ]
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:bnX2zv",
+                "expandedUri": "https://www.aftenposten.no/oslo/i/bnX2zv/sporveien-har-slettet-tweet-der-de-truet-med-politiet-men-vil-fremde"
+            },
+            "kicker": {
+                "value": "Truet med politiet"
+            },
+            "title": {
+                "value": "Sporveien vil kaste ut folk hvis det blir for fullt"
+            },
+            "standfirst": {
+                "value": "Først truet Sporveien med å kalle politiet. Nå skal førerne passe på at togene ikke blir for fulle. Hvis toget blir for fullt, blir alle kastet ut."
+            },
+            "label": {
+                "value": "OSLO"
+            },
+            "text": {
+                "value": "Først truet Sporveien med å kalle politiet. Nå skal førerne passe på at togene ikke blir for fulle."
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "44d2e634-526c-4a43-b194-f2fde143504b",
+                    "size": {
+                        "width": 4474,
+                        "height": 2983
+                    },
+                    "hotspot": {
+                        "x": 17,
+                        "y": 395,
+                        "width": 3454,
+                        "height": 2588
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/44d2e634-526c-4a43-b194-f2fde143504b?fit=crop&h=56&tight=true&w=100&s=4c20d2910ef30a8849df80cf8234bd63e24e64eb",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/44d2e634-526c-4a43-b194-f2fde143504b?fit=crop&h=113&tight=true&w=200&s=28e87f2723aa70cd3df28a28c9732d7e7b7fc228",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/44d2e634-526c-4a43-b194-f2fde143504b?fit=crop&h=214&tight=true&w=380&s=fd02c735c641cd30be629941b3609246a1429346",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/44d2e634-526c-4a43-b194-f2fde143504b?fit=crop&h=326&tight=true&w=580&s=f8d3ad7da6e025b947bf1118e005e387b0542b2b",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/44d2e634-526c-4a43-b194-f2fde143504b?fit=crop&h=439&tight=true&w=780&s=7f6df0cacd8317d5c19a43ddb1ea4d30ab47519e",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/44d2e634-526c-4a43-b194-f2fde143504b?fit=crop&h=551&tight=true&w=980&s=fbf26755a87993f151531a377f1505a4f570735c",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/44d2e634-526c-4a43-b194-f2fde143504b?fit=crop&h=576&tight=true&w=1024&s=225423aafe3272e9110d23736412ec9c1bf5d5c6",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/44d2e634-526c-4a43-b194-f2fde143504b?fit=crop&h=810&tight=true&w=1440&s=d54e0b087e2cedbbf72eac5945f014bb331ffc70",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/44d2e634-526c-4a43-b194-f2fde143504b?fit=crop&h=1152&tight=true&w=2048&s=77be856dc5f5fe8b5cb8bb5498a24afc0300e319",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-09T10:38:17Z",
+            "changes": {
+                "created": "2021-01-09T09:57:54Z",
+                "updated": "2021-01-09T15:42:52Z",
+                "firstPublished": "2021-01-09T10:38:17Z",
+                "published": "2021-01-09T10:38:17Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 40
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "small",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "bnX2zv"
+            },
+            "access": {
+                "restrictions": [
+                    "automatic"
+                ]
+            },
+            "authors": [
+                {
+                    "id": "78f1919a-77ad-40af-8e52-98a8d6eb0130",
+                    "title": "Wasim Riaz",
+                    "description": "",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "wasim.riaz@aftenposten.no"
+                        }
+                    ],
+                    "image": "51baddb5-8e47-48fa-93ee-6657cc8a0027",
+                    "imageAsset": {
+                        "id": "51baddb5-8e47-48fa-93ee-6657cc8a0027"
+                    },
+                    "slug": "wasim-riaz"
+                }
+            ]
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:9ObV4l",
+                "expandedUri": "https://www.aftenposten.no/norge/politikk/i/9ObV4l/hoeyre-toppen-skal-strippes-for-alle-verv-vil-slaass-for-sitt-politisk"
+            },
+            "kicker": {
+                "value": "Skal strippes for alle verv:"
+            },
+            "title": {
+                "value": "Høyre-toppen slåss for sitt politiske liv"
+            },
+            "standfirst": {
+                "value": "Et flertall i Oslo Høyres bystyregruppe vil kaste Øystein Sundelin som gruppeleder og frata ham jobben som heltidspolitiker. Han beskyldes for å lyve – og for å ha forsøkt å ansette en venn."
+            },
+            "label": {
+                "value": "POLITIKK"
+            },
+            "text": {
+                "value": "Et flertall i Oslo Høyres bystyregruppe vil kaste Øystein Sundelin som gruppeleder og frata ham jobben som…"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "e0596255-3aea-426f-99a5-3e208cc810da",
+                    "size": {
+                        "width": 4368,
+                        "height": 2912
+                    },
+                    "hotspot": {
+                        "x": 608,
+                        "y": 271,
+                        "width": 2868,
+                        "height": 2149
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e0596255-3aea-426f-99a5-3e208cc810da?fit=crop&h=56&tight=true&w=100&s=16c25ee7df84600bb4ad54e5de494434e9d7d5f6",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e0596255-3aea-426f-99a5-3e208cc810da?fit=crop&h=113&tight=true&w=200&s=299b87cfa71e20a4c29b647ace415e244440edaf",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e0596255-3aea-426f-99a5-3e208cc810da?fit=crop&h=214&tight=true&w=380&s=6b4bd221877cbb51323ff7e6c803f288bcf27443",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e0596255-3aea-426f-99a5-3e208cc810da?fit=crop&h=326&tight=true&w=580&s=b0b2a08fcec8e8f0214b15e9f78f85ebcaa1503b",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e0596255-3aea-426f-99a5-3e208cc810da?fit=crop&h=439&tight=true&w=780&s=7160a4c699874b9e1bd5c49cad3f181700134585",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e0596255-3aea-426f-99a5-3e208cc810da?fit=crop&h=551&tight=true&w=980&s=f4a680fffccc86f49e7a95ebd250b3fc4987e771",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e0596255-3aea-426f-99a5-3e208cc810da?fit=crop&h=576&tight=true&w=1024&s=22adbfe29a0578dcaffdf6b058b3ff6bbcdd8cd0",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e0596255-3aea-426f-99a5-3e208cc810da?fit=crop&h=810&tight=true&w=1440&s=3ba470189e6987bfada9fe739dce4dd9b88f56af",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e0596255-3aea-426f-99a5-3e208cc810da?fit=crop&h=1152&tight=true&w=2048&s=f931667fb2d0f3bc255ffb79bdc1a791c614de38",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-08T17:38:01Z",
+            "changes": {
+                "created": "2021-01-08T12:28:33Z",
+                "updated": "2021-01-11T06:29:50Z",
+                "firstPublished": "2021-01-08T17:38:01Z",
+                "published": "2021-01-08T17:38:01Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 70
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "medium",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "9ObV4l"
+            },
+            "access": {
+                "restrictions": [
+                    "automatic"
+                ]
+            },
+            "authors": [
+                {
+                    "id": "bb86a43b-7148-4f7d-a63d-f457ede1af59",
+                    "title": "Robert Gjerde",
+                    "description": "",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "robert.gjerde@aftenposten.no"
+                        }
+                    ],
+                    "slug": "robert-gjerde"
+                }
+            ]
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:jBO18b",
+                "expandedUri": "https://www.aftenposten.no/oslo/i/jBO18b/99-ganger-forrige-helg-var-kollektivtrafikken-for-full-paa-grunn-av-mar"
+            },
+            "kicker": {
+                "value": "Strålende sol og nysnø til helgen"
+            },
+            "title": {
+                "value": "Ruter advarer: Ikke reis med oss til Marka! "
+            },
+            "standfirst": {
+                "value": "Første helg i januar reiste altfor mange kollektivt for å komme seg ut på ski. Værmeldingen varsler ny drømmehelg. Nå advarer Ruter: «Legg helgeturen i nærområdet.» "
+            },
+            "label": {
+                "value": "OSLO"
+            },
+            "text": {
+                "value": "99 ganger var kollektivtrafikken for full forrige helg."
+            },
+            "truncateText": false,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "e9c4dc72-e403-458b-9eca-fe59bc775543",
+                    "size": {
+                        "width": 4893,
+                        "height": 3262
+                    },
+                    "hotspot": {
+                        "x": 552,
+                        "y": 792,
+                        "width": 3127,
+                        "height": 2350
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e9c4dc72-e403-458b-9eca-fe59bc775543?fit=crop&h=56&tight=true&w=100&s=24ffdd5cc0f6284d63cd238f10b64c20b27c8ed4",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e9c4dc72-e403-458b-9eca-fe59bc775543?fit=crop&h=113&tight=true&w=200&s=7eadc938f23428608bb0d2128ba1b6b64c1faab5",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e9c4dc72-e403-458b-9eca-fe59bc775543?fit=crop&h=214&tight=true&w=380&s=6d895be15c684e81c70e2747558d3cc64b12c569",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e9c4dc72-e403-458b-9eca-fe59bc775543?fit=crop&h=326&tight=true&w=580&s=779421e3eb5a7ba9acdd78250d1289aa88d7ee3e",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e9c4dc72-e403-458b-9eca-fe59bc775543?fit=crop&h=439&tight=true&w=780&s=44eb1c1b546e428a22f15875064c36d9e0ea8617",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e9c4dc72-e403-458b-9eca-fe59bc775543?fit=crop&h=551&tight=true&w=980&s=61fc05e8cba789facee6ba0a163f4be39e35217a",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e9c4dc72-e403-458b-9eca-fe59bc775543?fit=crop&h=576&tight=true&w=1024&s=e980ec45ebbcf399263d776745ad62b8fec529fe",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e9c4dc72-e403-458b-9eca-fe59bc775543?fit=crop&h=810&tight=true&w=1440&s=fa66959835151c2199d8d8b3a6bc73eea58ea392",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/e9c4dc72-e403-458b-9eca-fe59bc775543?fit=crop&h=1152&tight=true&w=2048&s=570dee152967f711fe0cff59f21fc268ab8547ca",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-08T12:53:00Z",
+            "changes": {
+                "created": "2021-01-08T08:28:29Z",
+                "updated": "2021-01-11T06:33:41Z",
+                "firstPublished": "2021-01-08T12:53:00Z",
+                "published": "2021-01-08T12:53:00Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 70
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "small",
+                "presentationType": "feature",
+                "doNotBundle": false,
+                "id": "jBO18b"
+            },
+            "access": {
+                "restrictions": [
+                    "closed"
+                ]
+            },
+            "authors": [
+                {
+                    "id": "cfba1e44-759f-4475-9911-2b368006516c",
+                    "title": "Christian Sørgjerd",
+                    "description": "",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "cs@aftenposten.no"
+                        },
+                        {
+                            "type": "twitter",
+                            "value": "ChrSorgjerd"
+                        }
+                    ],
+                    "image": "6515ecab-afc0-473e-98b5-ac43c6370c3d",
+                    "imageAsset": {
+                        "id": "6515ecab-afc0-473e-98b5-ac43c6370c3d"
+                    },
+                    "slug": "christian-soergjerd"
+                },
+                {
+                    "id": "bbe03ed3-f031-43fb-ba7c-001df6f70ba6",
+                    "title": "Hilde Lundgaard",
+                    "description": "",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "hilde.lundgaard@aftenposten.no"
+                        }
+                    ],
+                    "image": "3408a40c-aa45-426c-ae74-b32d3e49ee3c",
+                    "imageAsset": {
+                        "id": "3408a40c-aa45-426c-ae74-b32d3e49ee3c"
+                    },
+                    "slug": "hilde-lungaard"
+                },
+                {
+                    "id": "5b62dc46-48a5-410c-95b5-92d9a33876d7",
+                    "title": "Maria T. Pettrém",
+                    "description": "",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "maria.t.pettrem@aftenposten.no"
+                        }
+                    ],
+                    "image": "df41ea16-b157-42ef-83a5-e50bd0c3eeab",
+                    "imageAsset": {
+                        "id": "df41ea16-b157-42ef-83a5-e50bd0c3eeab"
+                    },
+                    "slug": "maria-t-pettrem"
+                }
+            ]
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:7KlV08",
+                "expandedUri": "https://www.aftenposten.no/oslo/i/7KlV08/oslo-studentene-treffes-ekstra-hardt-av-nedstengingen"
+            },
+            "kicker": {
+                "value": "Leder for Studentsamskipnaden"
+            },
+            "title": {
+                "value": "Bekymret for Oslo-studentene: – Treffes ekstra hardt av den sosiale nedstengingen"
+            },
+            "standfirst": {
+                "value": "Pandemien rammer studentene hardt, også økonomisk. Jonas Virtanen i Studentsamskipnaden i Oslo mener regjeringen nå må komme med en ny krisepakke til studentene."
+            },
+            "label": {
+                "value": "OSLO"
+            },
+            "text": {
+                "value": "Pandemien rammer studentene hardt, også økonomisk. Jonas Virtanen i Studentsamskipnaden i Oslo mener regjeringen…"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "45d66330-86f6-4413-9b79-68901bf3eaac",
+                    "size": {
+                        "width": 1823,
+                        "height": 1293
+                    },
+                    "hotspot": {
+                        "x": 319,
+                        "y": 55,
+                        "width": 1326,
+                        "height": 995
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/45d66330-86f6-4413-9b79-68901bf3eaac?fit=crop&h=56&tight=true&w=100&s=3f9de9c413f2f51ed95f0af66ab03ac7b232170b",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/45d66330-86f6-4413-9b79-68901bf3eaac?fit=crop&h=113&tight=true&w=200&s=4be1861da85b3fe8efa4201db9b2b0c8f170f539",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/45d66330-86f6-4413-9b79-68901bf3eaac?fit=crop&h=214&tight=true&w=380&s=e9b586444337e6f03b8db923d7179bf1e5663b92",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/45d66330-86f6-4413-9b79-68901bf3eaac?fit=crop&h=326&tight=true&w=580&s=667cae202f7af8fb1f3e7be7dc61603b7c7c4dcf",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/45d66330-86f6-4413-9b79-68901bf3eaac?fit=crop&h=439&tight=true&w=780&s=b86effbd444b6c3e434e75306bce2a2665efbf2c",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/45d66330-86f6-4413-9b79-68901bf3eaac?fit=crop&h=551&tight=true&w=980&s=0997a9e510ca3dc03b6e12e06645e474c2ead8d2",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/45d66330-86f6-4413-9b79-68901bf3eaac?fit=crop&h=576&tight=true&w=1024&s=dfc0bdb1dfdd5dbcd91437424de9fbc39ac5e299",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/45d66330-86f6-4413-9b79-68901bf3eaac?fit=crop&h=810&tight=true&w=1440&s=efcf9f2ffbc1ebbcd760dee4c2f05a941cb6be3a",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/45d66330-86f6-4413-9b79-68901bf3eaac?fit=crop&h=1025&tight=true&w=1823&s=09765ae64350b2f8b7be2c009a00a9bbb659f588",
+                            "width": 1823,
+                            "height": 1025
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-07T17:04:07Z",
+            "changes": {
+                "created": "2020-09-15T08:14:42Z",
+                "updated": "2021-01-10T11:58:03Z",
+                "firstPublished": "2021-01-07T17:04:07Z",
+                "published": "2021-01-07T17:04:07Z"
+            },
+            "characteristics": {
+                "lifetime": 40,
+                "hotness": 70
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "medium",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "7KlV08"
+            },
+            "access": {
+                "restrictions": [
+                    "closed"
+                ]
+            },
+            "authors": [
+                {
+                    "id": "efe3e6db-4f60-41b6-afe5-51b544760003",
+                    "title": "Marianne Stensland",
+                    "description": "",
+                    "contacts": [
+                        {
+                            "type": "email",
+                            "value": "marianne.stensland@schibsted.com"
+                        }
+                    ],
+                    "slug": "marianne-stensland"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,379 @@
+{
+    "section": {
+        "title": "Foreldreliv"
+    },
+    "teasers": [
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:eKapRR",
+                "expandedUri": "https://www.aftenposten.no/foreldreliv/i/eKapRR/barndommen-preger-oss-resten-av-livet-men-forholdet-til-foreldre-kan"
+            },
+            "kicker": {
+                "value": "Psykologen: "
+            },
+            "title": {
+                "value": "Behovet for forsoning med eldre foreldre er altoppslukende. Slik kan forholdet heles."
+            },
+            "standfirst": {
+                "value": " Vigdis Hjorths siste roman sier noe vesentlig om forholdet mellom voksne barn og deres foreldre, skriver psykolog Line Marie Warholm."
+            },
+            "label": {
+                "value": "FORELDRELIV"
+            },
+            "text": {
+                "value": "Behovet for forsoning med eldre foreldre er altoppslukende. Slik kan forholdet heles."
+            },
+            "truncateText": false,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "a4639614-8bc6-4c52-923e-54e95e8fbcde",
+                    "size": {
+                        "width": 1920,
+                        "height": 999
+                    },
+                    "hotspot": {
+                        "x": 271,
+                        "y": 7,
+                        "width": 1323,
+                        "height": 992
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a4639614-8bc6-4c52-923e-54e95e8fbcde?fit=crop&h=56&tight=true&w=100&s=6368994b5c3b8f0caa5c564086e8b869191d7746",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a4639614-8bc6-4c52-923e-54e95e8fbcde?fit=crop&h=113&tight=true&w=200&s=4cae2aeb454e367eb3bd7100f64cabd3b15db9f7",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a4639614-8bc6-4c52-923e-54e95e8fbcde?fit=crop&h=214&tight=true&w=380&s=87325d89682230cf28110d2c15012d94267ed3db",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a4639614-8bc6-4c52-923e-54e95e8fbcde?fit=crop&h=326&tight=true&w=580&s=b4cac24be678006831c7f2e25a899c7552fff952",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a4639614-8bc6-4c52-923e-54e95e8fbcde?fit=crop&h=439&tight=true&w=780&s=96c5879d1b94f031c1a0d7cbd428278bd6e39fa7",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a4639614-8bc6-4c52-923e-54e95e8fbcde?fit=crop&h=551&tight=true&w=980&s=007d363f377860eba8fd86f59cb7311ab27cf8b6",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a4639614-8bc6-4c52-923e-54e95e8fbcde?fit=crop&h=576&tight=true&w=1024&s=9221bcd19ec40e7079a609670513cce6b5f499a3",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a4639614-8bc6-4c52-923e-54e95e8fbcde?fit=crop&h=810&tight=true&w=1440&s=531cc986e87698df52d539dbb854d2438efa2e45",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a4639614-8bc6-4c52-923e-54e95e8fbcde?fit=crop&h=1080&tight=true&w=1920&s=11b639a70c60fd7c5b33633fecd16d105437591e",
+                            "width": 1920,
+                            "height": 1080
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-12T17:00:11Z",
+            "changes": {
+                "created": "2021-01-12T17:00:11Z",
+                "updated": "2021-01-13T13:58:14Z",
+                "firstPublished": "2021-01-12T17:00:11Z",
+                "published": "2021-01-12T17:00:11Z"
+            },
+            "characteristics": {
+                "lifetime": 60,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "medium",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "eKapRR",
+                "sourceId": "riks",
+                "immediateArticleId": "Ga0RRB"
+            },
+            "access": {
+                "restrictions": [
+                    "closed"
+                ]
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:x3MQBn",
+                "expandedUri": "https://www.aftenposten.no/foreldreliv/i/x3MQBn/denne-foreldrestilen-er-mest-vanlig-i-norge-hvilken-er-du"
+            },
+            "kicker": {
+                "value": "Ta testen her:"
+            },
+            "title": {
+                "value": "Denne foreldrestilen er mest vanlig i Norge. Hvilken er du?"
+            },
+            "standfirst": {
+                "value": "Slik er norske foreldre med barna sine. "
+            },
+            "label": {
+                "value": "FORELDRELIV"
+            },
+            "text": {
+                "value": "Ta testen her: Denne foreldrestilen er mest vanlig i Norge. Hvilken er du?"
+            },
+            "truncateText": false,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "106a283e-e8d0-4a73-9c8a-569893fb8705",
+                    "size": {
+                        "width": 4614,
+                        "height": 3082
+                    },
+                    "hotspot": {
+                        "x": 434,
+                        "y": 17,
+                        "width": 4059,
+                        "height": 3047
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/106a283e-e8d0-4a73-9c8a-569893fb8705?fit=crop&h=56&tight=true&w=100&s=c45f7f5d30a5b8b90641a984497e1d5d336f6a15",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/106a283e-e8d0-4a73-9c8a-569893fb8705?fit=crop&h=113&tight=true&w=200&s=77d960d8f76e1008367c676fb015642415c8c109",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/106a283e-e8d0-4a73-9c8a-569893fb8705?fit=crop&h=214&tight=true&w=380&s=4e2cb6631a6606b3882e99c44bd5345436c21aaa",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/106a283e-e8d0-4a73-9c8a-569893fb8705?fit=crop&h=326&tight=true&w=580&s=e9ac30522793533feaf158d029c24fb24d2672dc",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/106a283e-e8d0-4a73-9c8a-569893fb8705?fit=crop&h=439&tight=true&w=780&s=052a73fff09f1ae6fd4305a5372267efe6a85b1f",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/106a283e-e8d0-4a73-9c8a-569893fb8705?fit=crop&h=551&tight=true&w=980&s=835cd2687d9fae430f88f37a10903b4abd7398db",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/106a283e-e8d0-4a73-9c8a-569893fb8705?fit=crop&h=576&tight=true&w=1024&s=61aa4cfefb7589456eb21d15495547823527d071",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/106a283e-e8d0-4a73-9c8a-569893fb8705?fit=crop&h=810&tight=true&w=1440&s=ed538ea1657330d27716c7c1dbfff35747146ad7",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/106a283e-e8d0-4a73-9c8a-569893fb8705?fit=crop&h=1152&tight=true&w=2048&s=ada9c82b882c894168f8221124875386650b2187",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-01T08:00:09Z",
+            "changes": {
+                "created": "2021-01-01T08:00:09Z",
+                "updated": "2021-01-13T07:48:22Z",
+                "firstPublished": "2021-01-01T08:00:09Z",
+                "published": "2021-01-01T08:00:09Z"
+            },
+            "characteristics": {
+                "lifetime": 60,
+                "hotness": 60
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "medium",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "x3MQBn",
+                "sourceId": "riks",
+                "immediateArticleId": "1BBGXq"
+            },
+            "access": {
+                "restrictions": [
+                    "closed"
+                ]
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:weEw91",
+                "expandedUri": "https://www.aftenposten.no/foreldreliv/i/weEw91/ungdomspsykologen-slik-snakker-du-med-ungdom-om-grenser"
+            },
+            "kicker": {
+                "value": "Ungdomspsykologen: "
+            },
+            "title": {
+                "value": "Slik gjennomfører du en vellykket samtale med ungdommen din om grenser. Og får dem til å følge dem."
+            },
+            "standfirst": {
+                "value": "Det er en myte at ungdom ikke vil ha foreldre som setter tydelige grenser. Måten du tar samtalen på, kan avgjøre om de faktisk også følger dem. "
+            },
+            "label": {
+                "value": "FORELDRELIV"
+            },
+            "text": {
+                "value": "Slik gjennomfører du en vellykket samtale med ungdom om grenser. Og får dem til å følge dem."
+            },
+            "truncateText": false,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "a9e9a45c-38ef-4934-9778-a82818691e63",
+                    "size": {
+                        "width": 5305,
+                        "height": 2779
+                    },
+                    "hotspot": {
+                        "x": 897,
+                        "y": 0,
+                        "width": 3710,
+                        "height": 2779
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a9e9a45c-38ef-4934-9778-a82818691e63?fit=crop&h=56&tight=true&w=100&s=f8008729e4a81ce2c3b49550b664d87deedd1092",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a9e9a45c-38ef-4934-9778-a82818691e63?fit=crop&h=113&tight=true&w=200&s=5ba4b08fc4a630ec10c3451f18a83ed11592a1b3",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a9e9a45c-38ef-4934-9778-a82818691e63?fit=crop&h=214&tight=true&w=380&s=fd5ef5825497e232dbeb9eed80d012e66f7f462b",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a9e9a45c-38ef-4934-9778-a82818691e63?fit=crop&h=326&tight=true&w=580&s=e13775fc0633272e064227e913f6cc25e0a97d35",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a9e9a45c-38ef-4934-9778-a82818691e63?fit=crop&h=439&tight=true&w=780&s=5a3c4f584a0e645318710331ec846d50ccedbd21",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a9e9a45c-38ef-4934-9778-a82818691e63?fit=crop&h=551&tight=true&w=980&s=33e79cc71d0c245001e99cf479b4915b685d375e",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a9e9a45c-38ef-4934-9778-a82818691e63?fit=crop&h=576&tight=true&w=1024&s=4ba530e1b3d1fcdc342ba565be79735e207361f9",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a9e9a45c-38ef-4934-9778-a82818691e63?fit=crop&h=810&tight=true&w=1440&s=8eb02f7a91ade71734f17d049eee9d3ae6a6ce7f",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/a9e9a45c-38ef-4934-9778-a82818691e63?fit=crop&h=1152&tight=true&w=2048&s=17cd639e4bd9b5f0f6156a7f1075a07d05d2f6fb",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2020-10-01T16:00:06Z",
+            "changes": {
+                "created": "2020-10-01T16:00:06Z",
+                "updated": "2021-01-13T07:19:46Z",
+                "firstPublished": "2020-10-01T16:00:06Z",
+                "published": "2020-10-01T16:00:06Z"
+            },
+            "characteristics": {
+                "lifetime": 60,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "medium",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "weEw91",
+                "sourceId": "riks",
+                "immediateArticleId": "56Vo4z"
+            },
+            "access": {
+                "restrictions": [
+                    "closed"
+                ]
+            },
+            "authors": []
+        }
+    ]
+}

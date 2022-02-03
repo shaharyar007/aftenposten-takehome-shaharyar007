@@ -1,0 +1,20 @@
+$fontPath: "https://cdn.aftenposten.no/ap/fonts/";
+
+$fontsMap: (
+	"PublicoHeadline-Bold": "pbh/",
+	"PublicoHeadline-Roman": "pbh/",
+	"Roboto-Bold": "r/",
+	"Roboto-Light": "r/",
+);
+
+@each $font, $fontDir in $fontsMap {
+	@font-face {
+		font-family: #{$font};
+		src: url($fontPath + "#{$fontDir}" + "#{$font}.eot");
+		src: url($fontPath + "#{$fontDir}" + "#{$font}.eot?#iefix")
+				format("embedded-opentype"),
+			url($fontPath + "#{$fontDir}" + "#{$font}.woff2") format("woff2"),
+			url($fontPath + "#{$fontDir}" + "#{$font}.woff") format("woff"),
+			url($fontPath + "#{$fontDir}" + "#{$font}.ttf") format("truetype");
+	}
+}

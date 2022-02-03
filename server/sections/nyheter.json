@@ -1,0 +1,3423 @@
+{
+  "section": {
+    "title": "Nyheter"
+  },
+  "teasers": [
+    {
+      "type": "teaser",
+      "id": "JJ69Gj",
+      "src": "top",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:JJ69Gj",
+        "expandedUri": "https://www.aftenposten.no/norge/i/JJ69Gj/forklaringen-paa-skredet-i-gjerdrum-kan-ligge-langt-fra-boligfeltet-nys"
+      },
+      "kicker": {
+        "value": "Ti personer omkom"
+      },
+      "title": {
+        "value": "Forklaringen på skredet i Gjerdrum kan ligge langt fra boligfeltet Nystulia"
+      },
+      "standfirst": {
+        "value": "Forplantet skredet i Gjerdrum seg bakover? I så fall kan forklaringen ligge langt unna bebyggelsen på Ask."
+      },
+      "label": {
+        "value": "NORGE"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "e7230d15-95a7-4378-8495-825939487dad"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T08:10:06Z",
+      "changes": {
+        "created": "2021-01-12T09:41:49Z",
+        "updated": "2021-01-13T08:15:24Z",
+        "firstPublished": "2021-01-13T08:10:06Z",
+        "published": "2021-01-13T08:10:06Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 80
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "large",
+        "presentationType": "news",
+        "doNotBundle": true,
+        "id": "JJ69Gj"
+      },
+      "story": {
+        "id": "21e8602d-030a-4f4d-a5bf-25c6583fc98b",
+        "title": "Skredkatastrofen i Gjerdrum",
+        "description": "* Natt til onsdag 30. desember gikk et stort leirskred i Gjerdrum i Viken. \n\n* Syv personer er nå funnet omkommet. Tre er fortsatt savnet. Politiet sier det ikke lenger er håp om å finne overlevende.\n\n* 14 bygg ble tatt av skredet. Totalt er 31 boenheter ødelagt. Mange måtte reddes ut av området med helikopter og ti ble skadet.\n\n* Over 1000 personer i området er fortsatt evakuert.\n\n* Redningsarbeidet er svært krevende, ettersom det lenge ikke har vært mulig å ta seg trygt inn i rasområdet.",
+        "updated": "2021-01-05T14:02:34.363524Z",
+        "slug": "skredkatastrofen-i-gjerdrum"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "0ab55f2c-3a0e-4813-adac-a1ef1d3d1a66",
+          "title": "Sveinung Berg Bentzrød",
+          "description": "Journalist",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "sveinung.bentzrod@aftenposten.no"
+            }
+          ],
+          "image": "1cf9343a-3d99-4123-aefd-d70c1fe73172",
+          "imageAsset": {
+            "id": "1cf9343a-3d99-4123-aefd-d70c1fe73172",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/1cf9343a-3d99-4123-aefd-d70c1fe73172?fit=crop&h=100&w=100&s=8ccac62bed573ab5705d6ec948512ceb8ebac816",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/1cf9343a-3d99-4123-aefd-d70c1fe73172?fit=crop&h=200&w=200&s=bd92a1dc1a4b909ea274c9b345d79035700ac873",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/1cf9343a-3d99-4123-aefd-d70c1fe73172?fit=crop&h=380&w=380&s=57c5085552b1d73cb7ebebac235212a0cce0d6ae",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/1cf9343a-3d99-4123-aefd-d70c1fe73172?fit=crop&h=580&w=580&s=c9eab7c51941ca6ee449ca4e72f46312c0660464",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/1cf9343a-3d99-4123-aefd-d70c1fe73172?fit=crop&h=780&w=780&s=90908b0cc39c63678e1596ad6fff0575cca74f48",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/1cf9343a-3d99-4123-aefd-d70c1fe73172?fit=crop&h=980&w=980&s=b351da3e28e2b5bb4e2d61e47d02fdb17c3e34ee",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/1cf9343a-3d99-4123-aefd-d70c1fe73172?fit=crop&h=1024&w=1024&s=f11b04eeee3ff315af830fcef367c47ee6409952",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/1cf9343a-3d99-4123-aefd-d70c1fe73172?fit=crop&h=1440&w=1440&s=a2c0d0c71e0c312b476f8e8c79a7b24f2d9d2dd3",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/1cf9343a-3d99-4123-aefd-d70c1fe73172?fit=crop&h=2048&w=2048&s=870e431b1ced715bb610b97eb1bd1d4ed35af8ff",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "sveinung-berg-bentzroed"
+        },
+        {
+          "id": "efe3e6db-4f60-41b6-afe5-51b544760003",
+          "title": "Marianne Stensland",
+          "description": "",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "marianne.stensland@schibsted.com"
+            }
+          ],
+          "slug": "marianne-stensland"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "Ky65XG",
+      "src": "top",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:Ky65XG",
+        "expandedUri": "https://www.aftenposten.no/verden/i/Ky65XG/the-new-york-times-ampert-mellom-trump-og-pence"
+      },
+      "title": {
+        "value": "Offisielt hadde de «en god samtale». The New York Times kommer med en ganske annen beskrivelse."
+      },
+      "standfirst": {
+        "value": "Kort tid før stormingen av Kongressen, ble visepresident Mike Pence presset av Donald Trump. Nå er det dårlig stemning mellom de to."
+      },
+      "label": {
+        "value": "VERDEN"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "8d340aa3-9c42-4e4a-8e16-84ca0f26cc39"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T08:43:02Z",
+      "changes": {
+        "created": "2021-01-13T07:33:00Z",
+        "updated": "2021-01-13T09:12:01Z",
+        "firstPublished": "2021-01-13T08:43:02Z",
+        "published": "2021-01-13T08:43:02Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": true,
+        "id": "Ky65XG"
+      },
+      "story": {
+        "id": "386db190-93d1-4d4d-aab2-e8e84fbaae87",
+        "title": "Opptøyene i Washington",
+        "description": "* Hundrevis av Trump-tilhengere brøt seg inn i kongressbygningen onsdag 6. januar – dagen da Joe Biden formelt skulle godkjennes som ny president.\n\n* Dette gjorde de for å tvinge frem en utsettelse av godkjenningen, ifølge CNN.\n\n* Minst fem personer døde under opptøyene.\n\n* Etter opptøyene ba president Trump folk om å dra hjem, men han gjentok udokumenterte anklager om valgfusk.\n\n* Etter opptøyene er det kommet krav om at Trump må gå av eller fjernes fra presidentembetet.",
+        "updated": "2021-01-09T14:57:35.292450Z",
+        "slug": "opptoeyene-i-washington"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": [
+        {
+          "id": "d565bbfc-568f-4ade-b8cd-d82bf7c3c9c4",
+          "title": "Ole Alexander Saue",
+          "description": "",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "ole.alexander.saue@aftenposten.no"
+            }
+          ],
+          "slug": "ole-alexander-saue"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "9Ob1W5",
+      "src": "top",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:9Ob1W5",
+        "expandedUri": "https://www.aftenposten.no/meninger/leder/i/9Ob1W5/aftenposten-mener-nei-til-portforbud"
+      },
+      "title": {
+        "value": "Aftenposten mener: Nei til portforbud"
+      },
+      "standfirst": {
+        "value": "Det er bra at portforbud utredes skikkelig. Likevel bør regjeringens forslag avvises."
+      },
+      "label": {
+        "value": "LEDER"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "92bc7e72-fb17-428f-8725-8c4e24931a9a"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T07:36:08Z",
+      "changes": {
+        "created": "2021-01-11T12:17:11Z",
+        "updated": "2021-01-13T09:23:15Z",
+        "firstPublished": "2021-01-13T07:36:08Z",
+        "published": "2021-01-13T07:36:08Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "presentationType": "opinion",
+        "doNotBundle": false,
+        "id": "9Ob1W5"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "341ed2bd-4654-4c94-864b-2b8585c0de07",
+          "title": "Dagens lederartikkel",
+          "description": "",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "lederartikkel@aftenposten.no"
+            }
+          ],
+          "image": "10d5c5b4-fcfd-4afa-8327-9ea4a93ae6be",
+          "imageAsset": {
+            "id": "10d5c5b4-fcfd-4afa-8327-9ea4a93ae6be",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/10d5c5b4-fcfd-4afa-8327-9ea4a93ae6be?fit=crop&h=100&w=100&s=6b4024c80d4dadda2a23b6699625104c40a2739b",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/10d5c5b4-fcfd-4afa-8327-9ea4a93ae6be?fit=crop&h=200&w=200&s=a4e8b72269f3848e23a838beb83e45ca7ca9a745",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/10d5c5b4-fcfd-4afa-8327-9ea4a93ae6be?fit=crop&h=380&w=380&s=dbd0ea8c23ac254840d44e200a132785e640cbb1",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/10d5c5b4-fcfd-4afa-8327-9ea4a93ae6be?fit=crop&h=580&w=580&s=9036f80ba10cc97a275e3d473ad656ed3e248356",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/10d5c5b4-fcfd-4afa-8327-9ea4a93ae6be?fit=crop&h=780&w=780&s=54dbccfc248d7f8bb37b1abee9fa18d329f8255c",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/10d5c5b4-fcfd-4afa-8327-9ea4a93ae6be?fit=crop&h=980&w=980&s=9932cf7e73a1689af376b798f7656f29afa088a9",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/10d5c5b4-fcfd-4afa-8327-9ea4a93ae6be?fit=crop&h=1024&w=1024&s=ae8754626588471e24cc79856155722a4459b074",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/10d5c5b4-fcfd-4afa-8327-9ea4a93ae6be?fit=crop&h=1440&w=1440&s=40cfba3961b22b46f8813d0ede56c6ad9eeeb6e8",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/10d5c5b4-fcfd-4afa-8327-9ea4a93ae6be?fit=crop&h=2048&w=2048&s=da7a0bdc4a5f50f70d8a9cf5a737fb0e22718adf",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "dagens-lederartikkel"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "vA62Ol",
+      "src": "top",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:vA62Ol",
+        "expandedUri": "https://www.aftenposten.no/meninger/sid/i/vA62Ol/til-de-som-bestemmer-hilsen-ensom-jente-13"
+      },
+      "title": {
+        "value": "Det er ikke gøy å være ungdom mer"
+      },
+      "standfirst": {
+        "value": "Alt som er gøy, er avlyst. Det er ikke gøy å være ungdom mer."
+      },
+      "label": {
+        "value": "SID"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "f2c8bca2-5851-486c-ab64-e01c39506848"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T06:00:00Z",
+      "changes": {
+        "created": "2021-01-11T09:36:29Z",
+        "updated": "2021-01-13T08:18:00Z",
+        "firstPublished": "2021-01-13T06:00:00Z",
+        "published": "2021-01-13T06:00:00Z"
+      },
+      "characteristics": {
+        "lifetime": 60,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "opinion",
+        "doNotBundle": false,
+        "id": "vA62Ol"
+      },
+      "access": {
+        "restrictions": [
+          "open"
+        ]
+      },
+      "authors": [
+        {
+          "id": "9333f084-1def-40bf-a36d-519733b75857",
+          "title": "Jente (13)",
+          "description": "",
+          "contacts": [],
+          "slug": "jente-13"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "qAJ9Lw",
+      "src": "top",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:qAJ9Lw",
+        "expandedUri": "https://www.aftenposten.no/verden/i/qAJ9Lw/partifellene-svikter-trump-flere-og-flere-vil-stemme-for-riksrett-he"
+      },
+      "title": {
+        "value": "Partifellene svikter Trump. Nå kan det utenkelige ikke lenger utelukkes. Her er det viktigste fra i natt."
+      },
+      "standfirst": {
+        "value": "NEW YORK (Aftenposten): For kort tid siden virket det utenkelig at Donald Trump ville bli dømt i Senatet. Nå kan det ikke lenger utelukkes."
+      },
+      "label": {
+        "value": "VERDEN"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "e3cb19d1-5f4d-4755-9e69-14cb586f11c6"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T04:26:24Z",
+      "changes": {
+        "created": "2021-01-13T00:42:12Z",
+        "updated": "2021-01-13T08:42:22Z",
+        "firstPublished": "2021-01-13T04:26:24Z",
+        "published": "2021-01-13T04:26:24Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 70
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": true,
+        "id": "qAJ9Lw"
+      },
+      "story": {
+        "id": "386db190-93d1-4d4d-aab2-e8e84fbaae87",
+        "title": "Opptøyene i Washington",
+        "description": "* Hundrevis av Trump-tilhengere brøt seg inn i kongressbygningen onsdag 6. januar – dagen da Joe Biden formelt skulle godkjennes som ny president.\n\n* Dette gjorde de for å tvinge frem en utsettelse av godkjenningen, ifølge CNN.\n\n* Minst fem personer døde under opptøyene.\n\n* Etter opptøyene ba president Trump folk om å dra hjem, men han gjentok udokumenterte anklager om valgfusk.\n\n* Etter opptøyene er det kommet krav om at Trump må gå av eller fjernes fra presidentembetet.",
+        "updated": "2021-01-09T14:57:35.292450Z",
+        "slug": "opptoeyene-i-washington"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "7c422b21-9488-4dac-9053-db75372da6a3",
+          "title": "Øystein Kløvstad Langberg",
+          "description": "USA-korrespondent",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "oystein.langberg@aftenposten.no"
+            }
+          ],
+          "image": "e109fa3f-d3ce-4791-a97f-9946e8fad1ac",
+          "imageAsset": {
+            "id": "e109fa3f-d3ce-4791-a97f-9946e8fad1ac",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=100&w=100&s=be044930511a3067fd01c895fe6da9d6f065dffe",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=200&w=200&s=71c15f1749e03712b0444836fb85862998c3393f",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=380&w=380&s=7dddec945c69ff02f54a5d701ea29ef5b267b612",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=580&w=580&s=437d061101bbefc97818e54877d8c5ffee7cdd17",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=780&w=780&s=1b8403499194b20e1d94481547d55ed69472cf34",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=980&w=980&s=785295fca83cd230be5727603502738eec79d76e",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=1024&w=1024&s=e594fed07235c16dd57943bec3ccbd81ff4519f3",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=1440&w=1440&s=ca9cb32b1ff67683bf5489c9816c944adbde78ce",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=2048&w=2048&s=71471ea8e6f7ae07310f4f3a9dffd217a0309c59",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "oeystein-kloevstad-langberg-4"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "VqQA56",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:VqQA56",
+        "expandedUri": "https://www.aftenposten.no/reise/i/VqQA56/new-york-times-svalbard-er-droemmereisemaal-i-aar"
+      },
+      "kicker": {
+        "value": "The New York Times:"
+      },
+      "title": {
+        "value": "Dette norske stedet er drømmereisemål i år"
+      },
+      "standfirst": {
+        "value": "Storavisen har valgt ut 52 reisemål for året. Norge er igjen med på listen. "
+      },
+      "label": {
+        "value": "REISE"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "b1c8d534-1d51-4694-89df-a25a2f43e50f"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T06:00:13Z",
+      "changes": {
+        "created": "2021-01-13T06:00:13Z",
+        "updated": "2021-01-13T08:59:47Z",
+        "firstPublished": "2021-01-13T06:00:13Z",
+        "published": "2021-01-13T06:00:13Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "VqQA56",
+        "sourceId": "riks",
+        "immediateArticleId": "9Ob1ed"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": []
+    },
+    {
+      "type": "teaser",
+      "id": "rgz23K",
+      "src": "b2c",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:rgz23K",
+        "expandedUri": "https://www.aftenposten.no/oslo/i/rgz23K/krass-kritikk-mot-ny-obos-bydel-for-stort-moerkt-og-hoeyt"
+      },
+      "title": {
+        "value": "Obos har fått ros for å bygge på Ulven. Men ekspertene lurer på om det blir bra å bo der."
+      },
+      "standfirst": {
+        "value": "Obos har fått ros for å starte utbyggingen på Ulven. Men hvor bra blir det å bo der, spør ekspertene.\n"
+      },
+      "label": {
+        "value": "OSLO"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "88801179-2918-439b-84ee-ffc3ec917afd"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-12T15:24:50Z",
+      "changes": {
+        "created": "2021-01-11T11:58:29Z",
+        "updated": "2021-01-12T17:49:46Z",
+        "firstPublished": "2021-01-12T15:24:50Z",
+        "published": "2021-01-12T15:24:50Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 70
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "large",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "rgz23K"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "82e6dec2-8359-4c0a-aa1d-81652d66b781",
+          "title": "Hilde Lundgaard",
+          "description": "",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "hilde.lundgaard@aftenposten.no"
+            }
+          ],
+          "image": "eae4f8db-36c9-494f-96bc-e77e57f6c879",
+          "imageAsset": {
+            "id": "eae4f8db-36c9-494f-96bc-e77e57f6c879",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/eae4f8db-36c9-494f-96bc-e77e57f6c879?fit=crop&h=100&w=100&s=912383de0e55958631be5eab642097665e45a2e4",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/eae4f8db-36c9-494f-96bc-e77e57f6c879?fit=crop&h=200&w=200&s=73a2ae263a361ab37ff1153cc01539d173b5423e",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/eae4f8db-36c9-494f-96bc-e77e57f6c879?fit=crop&h=380&w=380&s=ad39d7681cf4343fc78ec662a64b678969b74222",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/eae4f8db-36c9-494f-96bc-e77e57f6c879?fit=crop&h=580&w=580&s=d51eac1f153270950aac5af971238190973b1728",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/eae4f8db-36c9-494f-96bc-e77e57f6c879?fit=crop&h=780&w=780&s=b073b26fc00dfa6ad15c5f80238d3c80f54ba0b4",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/eae4f8db-36c9-494f-96bc-e77e57f6c879?fit=crop&h=980&w=980&s=346e507190f028150857f7e843539d37084452fb",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/eae4f8db-36c9-494f-96bc-e77e57f6c879?fit=crop&h=1024&w=1024&s=76616d6ad848b936d4a76f700a8ddf6aabddd056",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/eae4f8db-36c9-494f-96bc-e77e57f6c879?fit=crop&h=1440&w=1440&s=36c12b5bb9b8b0e136543f98b5cbab630c90fc21",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/eae4f8db-36c9-494f-96bc-e77e57f6c879?fit=crop&h=2048&w=2048&s=0ed883a3b6bb15fb5e136f7418023954312e0772",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "hilde-lundgaard"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "nAGojQ",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:nAGojQ",
+        "expandedUri": "https://www.aftenposten.no/norge/i/nAGojQ/dagens-gode-og-daarlige-koronanyheter"
+      },
+      "kicker": {
+        "value": "Dagens koronanyheter oppsummert:"
+      },
+      "title": {
+        "value": "Ingen har fått influensa. Det er ikke bare godt nytt, advarer FHI."
+      },
+      "standfirst": {
+        "value": "Studentene er forberedt på dårlige nyheter når regjeringen snart avslører hvilke koronatiltak som skal videreføres. Her er dagens negative og positive koronanyheter."
+      },
+      "label": {
+        "value": "NORGE"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "0a75e8e0-162b-4887-856d-65a919c7f791"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-12T20:29:26Z",
+      "changes": {
+        "created": "2021-01-12T17:06:51Z",
+        "updated": "2021-01-12T20:34:07Z",
+        "firstPublished": "2021-01-12T20:29:26Z",
+        "published": "2021-01-12T20:29:26Z"
+      },
+      "characteristics": {
+        "lifetime": 20,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "nAGojQ"
+      },
+      "story": {
+        "id": "373de520-1061-4439-b90e-baa4097f40d2",
+        "title": "Koronaviruset",
+        "description": "* Koronaviruset rammer hele verden. Det meldes nå om flere lovende vaksineforsøk, og de første rulles ut om noen få uker.\n\n* Globalt er det registrert over 90 millioner smittede.\n\n* Det er registrert over 1,9 millioner døde. Verst rammet er USA, Brasil og India. Nå øker smitten i Europa igjen også. \n\n* Smittetallene har steget i Norge også i vinter. Det er innført omfattende tiltak for å begrense smitten.\n\n* Antallet innlagte på sykehus i Norge har også økt.",
+        "updated": "2021-01-11T06:31:58.264174Z",
+        "slug": "spredningen-av-coronaviruset"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": [
+        {
+          "id": "269ff659-a6ab-4d8d-8bb5-30574fb0c326",
+          "title": "Solveig Ruud",
+          "description": "",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "solveig.ruud@aftenposten.no"
+            }
+          ],
+          "image": "03e1a7f2-5f46-4e34-a854-0a2e1f91a56f",
+          "imageAsset": {
+            "id": "03e1a7f2-5f46-4e34-a854-0a2e1f91a56f",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=100&w=100&s=103f837fd1cd0d104bd92c98bcbaccb39b5e175f",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=200&w=200&s=bf1d3cfb691b870eb56b8fe71241d9e0ebfcd75f",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=380&w=380&s=83d28bcd6ee56e371e8325a556ca76cec74456d0",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=580&w=580&s=31d2c8e67eac35f0ff0192746b3d10e391368c3d",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=780&w=780&s=4493041fdab2c53df0a72aa3cc09d068d3adfbae",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=980&w=980&s=140c8e1b568b7835c29b1f8013ee67ce4fa2657f",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=1024&w=1024&s=71e8be34da7ccb3ce15686453e654582c0f82d73",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=1440&w=1440&s=983a871cff3e41092837089c9acc9e5672973355",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=2048&w=2048&s=02f96ae0d25f9ebb7724231e42adc08e9c0b17e5",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "solveig-ruud-3"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "pL54lE",
+      "src": "jm-a",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:pL54lE",
+        "expandedUri": "https://www.aftenposten.no/verden/i/pL54lE/direktestudio-koronaviruset"
+      },
+      "kicker": {
+        "value": "Direktestudio – koronaviruset"
+      },
+      "title": {
+        "value": "Vil forlenge forhøyet dagpengesats for permitterte og arbeidsledige"
+      },
+      "standfirst": {
+        "value": "Følg utviklingen her."
+      },
+      "label": {
+        "value": "VERDEN"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "a6ec49a8-934b-48c7-9ce1-93f5fa02e862"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T08:30:09Z",
+      "changes": {
+        "created": "2020-01-26T08:13:10Z",
+        "updated": "2021-01-13T08:33:14Z",
+        "firstPublished": "2020-01-26T08:27:17Z",
+        "published": "2021-01-13T08:30:09Z"
+      },
+      "characteristics": {
+        "lifetime": 60,
+        "hotness": 70
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "presentationType": "news",
+        "doNotBundle": true,
+        "id": "pL54lE"
+      },
+      "story": {
+        "id": "373de520-1061-4439-b90e-baa4097f40d2",
+        "title": "Koronaviruset",
+        "description": "* Koronaviruset rammer hele verden. Det meldes nå om flere lovende vaksineforsøk, og de første rulles ut om noen få uker.\n\n* Globalt er det registrert over 90 millioner smittede.\n\n* Det er registrert over 1,9 millioner døde. Verst rammet er USA, Brasil og India. Nå øker smitten i Europa igjen også. \n\n* Smittetallene har steget i Norge også i vinter. Det er innført omfattende tiltak for å begrense smitten.\n\n* Antallet innlagte på sykehus i Norge har også økt.",
+        "updated": "2021-01-11T06:31:58.264174Z",
+        "slug": "spredningen-av-coronaviruset"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": [
+        {
+          "id": "99a1e9b2-2673-4814-ab9c-784742a5938c",
+          "title": "Aftenposten",
+          "description": "",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "2286@aftenposten.no"
+            }
+          ],
+          "slug": "aftenposten-3"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "Ky6x14",
+      "src": "b2c",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:Ky6x14",
+        "expandedUri": "https://www.aftenposten.no/norge/i/Ky6x14/politikere-bruker-sterke-ord-om-utredningen-av-portforbud-hva-innebaer"
+      },
+      "kicker": {
+        "value": "Norge utreder portforbud"
+      },
+      "title": {
+        "value": "Hva er det, egentlig? Hvordan er det gjennomført i andre land?"
+      },
+      "standfirst": {
+        "value": "Norge har allerede innført noen av tiltakene et portforbud innebærer i andre land. Det sier menneskerettighetsekspert til Aftenposten. "
+      },
+      "label": {
+        "value": "NORGE"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "4782d0f9-ef0e-4fd3-a034-00b97306c5fe"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T09:08:37Z",
+      "changes": {
+        "created": "2021-01-12T09:31:17Z",
+        "updated": "2021-01-13T09:08:57Z",
+        "firstPublished": "2021-01-13T07:36:01Z",
+        "published": "2021-01-13T09:08:37Z"
+      },
+      "characteristics": {
+        "lifetime": 20,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "yes",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "Ky6x14"
+      },
+      "story": {
+        "id": "373de520-1061-4439-b90e-baa4097f40d2",
+        "title": "Koronaviruset",
+        "description": "* Koronaviruset rammer hele verden. Det meldes nå om flere lovende vaksineforsøk, og de første rulles ut om noen få uker.\n\n* Globalt er det registrert over 90 millioner smittede.\n\n* Det er registrert over 1,9 millioner døde. Verst rammet er USA, Brasil og India. Nå øker smitten i Europa igjen også. \n\n* Smittetallene har steget i Norge også i vinter. Det er innført omfattende tiltak for å begrense smitten.\n\n* Antallet innlagte på sykehus i Norge har også økt.",
+        "updated": "2021-01-11T06:31:58.264174Z",
+        "slug": "spredningen-av-coronaviruset"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "53daa446-4272-4287-854f-3c146f3ef22d",
+          "title": "Inger Lise Hammerstrøm",
+          "description": "Journalist",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "inger.lise.hammerstrom@aftenposten.no"
+            }
+          ],
+          "image": "573d8652-8dad-4cd0-a57b-6890d73798a2",
+          "imageAsset": {
+            "id": "573d8652-8dad-4cd0-a57b-6890d73798a2",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/573d8652-8dad-4cd0-a57b-6890d73798a2?fit=crop&h=100&w=100&s=237ae01cf014117dfa90f2c06c2fe379b49b1d1f",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/573d8652-8dad-4cd0-a57b-6890d73798a2?fit=crop&h=200&w=200&s=58e3e3e087052af34bed83b2b56286b21a18d62e",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/573d8652-8dad-4cd0-a57b-6890d73798a2?fit=crop&h=380&w=380&s=f3fc3e79ae7fbd87bb6f9c504c1050e429db0e14",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/573d8652-8dad-4cd0-a57b-6890d73798a2?fit=crop&h=580&w=580&s=fa07f98234528c4f614371fca77d6f3fa0c5c8e9",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/573d8652-8dad-4cd0-a57b-6890d73798a2?fit=crop&h=780&w=780&s=38285c4f63a08aa54899f3435b5d346acae6e46a",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/573d8652-8dad-4cd0-a57b-6890d73798a2?fit=crop&h=980&w=980&s=fef2caf77bea2407921ee8594ef5e45932e3fc51",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/573d8652-8dad-4cd0-a57b-6890d73798a2?fit=crop&h=1024&w=1024&s=b48c1d8fa7c3f943dfa3a796100c276d527ffaad",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/573d8652-8dad-4cd0-a57b-6890d73798a2?fit=crop&h=1440&w=1440&s=d9cc13a2fe1c35e64151c473513dc3c975651257",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/573d8652-8dad-4cd0-a57b-6890d73798a2?fit=crop&h=2048&w=2048&s=0bffb607c439b9081fe26facaa5b44a71095024e",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "inger-lise-hammerstroem"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "Ga0KKB",
+      "src": "jm-a",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:Ga0KKB",
+        "expandedUri": "https://www.aftenposten.no/meninger/kommentar/i/Ga0KKB/staten-maa-ta-mer-ansvar-for-nordmenns-fedme"
+      },
+      "title": {
+        "value": "Staten må ta mer ansvar for nordmenns fedme"
+      },
+      "standfirst": {
+        "value": "Det er ingenting galt med å kvitte seg med julekiloene. Men det finnes et liv etter januar også."
+      },
+      "label": {
+        "value": "KOMMENTAR"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "14a2907f-31a7-4532-a20f-2bb28dc126cc"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T05:45:00Z",
+      "changes": {
+        "created": "2021-01-06T09:16:23Z",
+        "updated": "2021-01-13T07:18:18Z",
+        "firstPublished": "2021-01-13T05:45:00Z",
+        "published": "2021-01-13T05:45:00Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 70
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "opinion",
+        "doNotBundle": false,
+        "id": "Ga0KKB"
+      },
+      "story": {
+        "id": "d18944b7-868a-41ce-8c20-7d79872b57a6",
+        "title": "Kommentar Joacim Lund",
+        "updated": "2017-06-01T13:13:54.215Z",
+        "slug": "kommentar-joacim-lund"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "afb3c892-04fc-4272-885f-b205ce1d4e3e",
+          "title": "Joacim Lund",
+          "description": "kommentator",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "joacim.lund@aftenposten.no"
+            }
+          ],
+          "image": "28254a09-6600-45db-acad-d24180fb9308",
+          "imageAsset": {
+            "id": "28254a09-6600-45db-acad-d24180fb9308",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/28254a09-6600-45db-acad-d24180fb9308?fit=crop&h=100&w=100&s=a07c46a3e86f9c43582ba7de8b8ae3c01546bac1",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/28254a09-6600-45db-acad-d24180fb9308?fit=crop&h=200&w=200&s=518739775607a608bd7fec1e8118d4996336abbe",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/28254a09-6600-45db-acad-d24180fb9308?fit=crop&h=380&w=380&s=6e7a847e2d85fc5b07a4b9f6590937da1f02169f",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/28254a09-6600-45db-acad-d24180fb9308?fit=crop&h=580&w=580&s=284d43d48b88cc168517c6627dfe81130b08e2d8",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/28254a09-6600-45db-acad-d24180fb9308?fit=crop&h=780&w=780&s=39eb5019c4292fe7786d6241a44c5087a937f29f",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/28254a09-6600-45db-acad-d24180fb9308?fit=crop&h=980&w=980&s=b73ceff631a03d6cd1eddc59b6c50bb6c13b2e12",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/28254a09-6600-45db-acad-d24180fb9308?fit=crop&h=1024&w=1024&s=d5d990fe975187f5474691675ac60a72f2391c7e",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/28254a09-6600-45db-acad-d24180fb9308?fit=crop&h=1440&w=1440&s=801b80883f37d381d62ec4b62fcb4ab0cf18b045",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/28254a09-6600-45db-acad-d24180fb9308?fit=crop&h=2048&w=2048&s=71e856de744b3915074fba68e139f079d01e4663",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "joacim-lund"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "weRGm4",
+      "src": "b2c",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:weRGm4",
+        "expandedUri": "https://www.aftenposten.no/karriere/i/weRGm4/mariann-thiesen-ble-sykmeldt-av-stress-her-er-syv-tegn-paa-at-du-begyn"
+      },
+      "kicker": {
+        "value": "Hun satte jobben foran alt"
+      },
+      "title": {
+        "value": "Mariann Thiesen ble sykmeldt av stress. Her er syv tegn på at du begynner å bli utbrent."
+      },
+      "standfirst": {
+        "value": "Hun satte jobben foran alt. Her er tegnene du bør ta på alvor før det er for sent."
+      },
+      "label": {
+        "value": "KARRIERE"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "f6517b30-fca7-4940-97cd-2e7ec2f06fd8"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-11T06:00:08Z",
+      "changes": {
+        "created": "2021-01-11T06:00:08Z",
+        "updated": "2021-01-11T07:58:28Z",
+        "firstPublished": "2021-01-11T06:00:08Z",
+        "published": "2021-01-11T06:00:08Z"
+      },
+      "characteristics": {
+        "lifetime": 60,
+        "hotness": 70
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "weRGm4",
+        "sourceId": "riks",
+        "immediateArticleId": "86m5Xd"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": []
+    },
+    {
+      "type": "teaser",
+      "id": "Qm5e8V",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:Qm5e8V",
+        "expandedUri": "https://www.aftenposten.no/verden/i/Qm5e8V/utenriksministeren-med-ny-skarp-kritikk-av-trump-administrasjonen"
+      },
+      "title": {
+        "value": "Ny skarp kritikk mot Trump-administrasjonen"
+      },
+      "standfirst": {
+        "value": "President Donald Trumps beslutning om å terrorliste Cuba er urimelig og beklagelig, mener utenriksminister Ine Eriksen Søreide (H)."
+      },
+      "label": {
+        "value": "VERDEN"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "29119d7b-24e0-4b0d-972b-b77811701fab"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T06:33:20Z",
+      "changes": {
+        "created": "2021-01-13T06:19:27Z",
+        "updated": "2021-01-13T06:35:47Z",
+        "firstPublished": "2021-01-13T06:33:20Z",
+        "published": "2021-01-13T06:33:20Z"
+      },
+      "characteristics": {
+        "lifetime": 20,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "Qm5e8V",
+        "sourceId": "ntb",
+        "immediateArticleId": "NTB67a1b853-5781-49b7-bb4a-1832ee4d96b2"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": [
+        {
+          "id": "93768076-8043-41d5-acd7-6a68cfea8096",
+          "title": "NTB",
+          "description": "",
+          "contacts": [],
+          "slug": "ntb-12"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "vA62oB",
+      "src": "jm-a",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:vA62oB",
+        "expandedUri": "https://www.aftenposten.no/verden/i/vA62oB/comeback-i-2024-kritikken-hagler-men-trump-har-fortsatt-ett-sterkt-k"
+      },
+      "title": {
+        "value": "Comeback i 2024? Kritikken hagler, men Trump har fortsatt ett sterkt kort på hånden."
+      },
+      "standfirst": {
+        "value": "NEW YORK (Aftenposten): Republikanere i Washington snakker høyt om å avsette Donald Trump. De har ikke partiets grunnfjell med seg."
+      },
+      "label": {
+        "value": "VERDEN"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "b59ee41f-1b5b-4eea-a417-0c4a7bbb4301"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-12T20:59:02Z",
+      "changes": {
+        "created": "2021-01-11T13:55:44Z",
+        "updated": "2021-01-13T06:23:04Z",
+        "firstPublished": "2021-01-12T20:59:02Z",
+        "published": "2021-01-12T20:59:02Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 80
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "vA62oB"
+      },
+      "story": {
+        "id": "386db190-93d1-4d4d-aab2-e8e84fbaae87",
+        "title": "Opptøyene i Washington",
+        "description": "* Hundrevis av Trump-tilhengere brøt seg inn i kongressbygningen onsdag 6. januar – dagen da Joe Biden formelt skulle godkjennes som ny president.\n\n* Dette gjorde de for å tvinge frem en utsettelse av godkjenningen, ifølge CNN.\n\n* Minst fem personer døde under opptøyene.\n\n* Etter opptøyene ba president Trump folk om å dra hjem, men han gjentok udokumenterte anklager om valgfusk.\n\n* Etter opptøyene er det kommet krav om at Trump må gå av eller fjernes fra presidentembetet.",
+        "updated": "2021-01-09T14:57:35.292450Z",
+        "slug": "opptoeyene-i-washington"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "7c422b21-9488-4dac-9053-db75372da6a3",
+          "title": "Øystein Kløvstad Langberg",
+          "description": "USA-korrespondent",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "oystein.langberg@aftenposten.no"
+            }
+          ],
+          "image": "e109fa3f-d3ce-4791-a97f-9946e8fad1ac",
+          "imageAsset": {
+            "id": "e109fa3f-d3ce-4791-a97f-9946e8fad1ac",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=100&w=100&s=be044930511a3067fd01c895fe6da9d6f065dffe",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=200&w=200&s=71c15f1749e03712b0444836fb85862998c3393f",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=380&w=380&s=7dddec945c69ff02f54a5d701ea29ef5b267b612",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=580&w=580&s=437d061101bbefc97818e54877d8c5ffee7cdd17",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=780&w=780&s=1b8403499194b20e1d94481547d55ed69472cf34",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=980&w=980&s=785295fca83cd230be5727603502738eec79d76e",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=1024&w=1024&s=e594fed07235c16dd57943bec3ccbd81ff4519f3",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=1440&w=1440&s=ca9cb32b1ff67683bf5489c9816c944adbde78ce",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=2048&w=2048&s=71471ea8e6f7ae07310f4f3a9dffd217a0309c59",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "oeystein-kloevstad-langberg-4"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "nAGE4B",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:nAGE4B",
+        "expandedUri": "https://www.aftenposten.no/sport/fotball/i/nAGE4B/solskjaer-ingen-vil-huske-tabellen-12-januar"
+      },
+      "title": {
+        "value": "Hylles av tidligere stjernespisser etter gårsdagens seier"
+      },
+      "standfirst": {
+        "value": "Ole Gunnar Solskjær og Manchester United kan juble for tabelltopp. Samtidig hylles laget og nordmannen av tidligere stjernespisser. Selv tar United-sjefen det hele med knusende ro."
+      },
+      "label": {
+        "value": "FOTBALL"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "03fae233-b34d-48fa-bdb6-44c27b8af3cd"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T05:35:36Z",
+      "changes": {
+        "created": "2021-01-13T05:35:36Z",
+        "updated": "2021-01-13T06:45:09Z",
+        "firstPublished": "2021-01-13T05:35:36Z",
+        "published": "2021-01-13T05:35:36Z"
+      },
+      "characteristics": {
+        "lifetime": 20,
+        "hotness": 50
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "nAGE4B",
+        "sourceId": "100-sport",
+        "immediateArticleId": "Qm5ejP"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": []
+    },
+    {
+      "type": "teaser",
+      "id": "Ln6z8q",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:Ln6z8q",
+        "expandedUri": "https://www.aftenposten.no/oslo/i/Ln6z8q/tyv-tatt-paa-fersken-laast-inn-i-bod"
+      },
+      "kicker": {
+        "value": "Oslo:"
+      },
+      "title": {
+        "value": "Innbruddstyv tatt på fersken og låst inn i boden"
+      },
+      "standfirst": {
+        "value": "Politiet fikk servert en innbruddstyv på fat tirsdag kveld. Han ble tatt på fersken og låst inn i en bod før politiet kom."
+      },
+      "label": {
+        "value": "OSLO"
+      },
+      "timestamp": "2021-01-12T21:21:48Z",
+      "changes": {
+        "created": "2021-01-12T21:14:13Z",
+        "updated": "2021-01-12T21:23:58Z",
+        "firstPublished": "2021-01-12T21:21:48Z",
+        "published": "2021-01-12T21:21:48Z"
+      },
+      "characteristics": {
+        "lifetime": 20,
+        "hotness": 50
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "Ln6z8q"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": [
+        {
+          "id": "269ff659-a6ab-4d8d-8bb5-30574fb0c326",
+          "title": "Solveig Ruud",
+          "description": "",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "solveig.ruud@aftenposten.no"
+            }
+          ],
+          "image": "03e1a7f2-5f46-4e34-a854-0a2e1f91a56f",
+          "imageAsset": {
+            "id": "03e1a7f2-5f46-4e34-a854-0a2e1f91a56f",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=100&w=100&s=103f837fd1cd0d104bd92c98bcbaccb39b5e175f",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=200&w=200&s=bf1d3cfb691b870eb56b8fe71241d9e0ebfcd75f",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=380&w=380&s=83d28bcd6ee56e371e8325a556ca76cec74456d0",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=580&w=580&s=31d2c8e67eac35f0ff0192746b3d10e391368c3d",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=780&w=780&s=4493041fdab2c53df0a72aa3cc09d068d3adfbae",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=980&w=980&s=140c8e1b568b7835c29b1f8013ee67ce4fa2657f",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=1024&w=1024&s=71e8be34da7ccb3ce15686453e654582c0f82d73",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=1440&w=1440&s=983a871cff3e41092837089c9acc9e5672973355",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/03e1a7f2-5f46-4e34-a854-0a2e1f91a56f?fit=crop&h=2048&w=2048&s=02f96ae0d25f9ebb7724231e42adc08e9c0b17e5",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "solveig-ruud-3"
+        },
+        {
+          "id": "f03c0f11-7a23-4d82-8ad5-53282ad33c5f",
+          "title": "Hilde Bjørhovde",
+          "description": "Journalist",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "hilde.bjorhovde@aftenposten.no"
+            }
+          ],
+          "image": "d7f7cc63-a594-4e73-8141-a8ec29a5ba7c",
+          "imageAsset": {
+            "id": "d7f7cc63-a594-4e73-8141-a8ec29a5ba7c",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d7f7cc63-a594-4e73-8141-a8ec29a5ba7c?fit=crop&h=100&w=100&s=eba1138a23082e00e936793280d075db46e7c4a9",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d7f7cc63-a594-4e73-8141-a8ec29a5ba7c?fit=crop&h=200&w=200&s=9eba81946ecd28831d05589164126cbe871053d6",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d7f7cc63-a594-4e73-8141-a8ec29a5ba7c?fit=crop&h=380&w=380&s=cb7e6fa6d3a97372f6e995b5cb133b48f3543e46",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d7f7cc63-a594-4e73-8141-a8ec29a5ba7c?fit=crop&h=580&w=580&s=a1b0f70d1ff235adb5381216ea14cc0e8afef8e7",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d7f7cc63-a594-4e73-8141-a8ec29a5ba7c?fit=crop&h=780&w=780&s=eae9850f69f1a1b227701b0c1e2574cdaa004ea0",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d7f7cc63-a594-4e73-8141-a8ec29a5ba7c?fit=crop&h=980&w=980&s=98281071ac88a0bf279b88682bb7863ddd7b4093",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d7f7cc63-a594-4e73-8141-a8ec29a5ba7c?fit=crop&h=1024&w=1024&s=f28406863f4de1d061b533f12ac1ff4de60b24d4",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d7f7cc63-a594-4e73-8141-a8ec29a5ba7c?fit=crop&h=1440&w=1440&s=2745f44352452e4e3d9037875b25765ba16949ae",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d7f7cc63-a594-4e73-8141-a8ec29a5ba7c?fit=crop&h=2048&w=2048&s=9a6c3bbbc0bab81b3212cf41963cbef43545c44c",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "hilde-bjoerhovde"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "7KVk24",
+      "src": "jm-a",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:7KVk24",
+        "expandedUri": "https://www.aftenposten.no/verden/i/7KVk24/seks-timer-i-handlingslammelse-paa-innsiden-av-det-hvite-hus-mens-mobb"
+      },
+      "kicker": {
+        "value": "På innsiden av Det hvite hus:"
+      },
+      "title": {
+        "value": "Rådgiverne tryglet Trump om å gjøre noe. I stedet fulgte han opptøyene direkte på TV."
+      },
+      "standfirst": {
+        "value": "WASHINGTON (The Washington Post): Rådgivere og partifeller tryglet Donald Trump om å handle. Han valgte i stedet å følge opptøyene direkte på TV."
+      },
+      "label": {
+        "value": "VERDEN"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "47981466-a12d-411c-b252-173b3a613a87"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-12T18:44:24Z",
+      "changes": {
+        "created": "2021-01-12T11:22:16Z",
+        "updated": "2021-01-13T06:55:22Z",
+        "firstPublished": "2021-01-12T18:44:24Z",
+        "published": "2021-01-12T18:44:24Z"
+      },
+      "characteristics": {
+        "lifetime": 60,
+        "hotness": 80
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "7KVk24"
+      },
+      "story": {
+        "id": "386db190-93d1-4d4d-aab2-e8e84fbaae87",
+        "title": "Opptøyene i Washington",
+        "description": "* Hundrevis av Trump-tilhengere brøt seg inn i kongressbygningen onsdag 6. januar – dagen da Joe Biden formelt skulle godkjennes som ny president.\n\n* Dette gjorde de for å tvinge frem en utsettelse av godkjenningen, ifølge CNN.\n\n* Minst fem personer døde under opptøyene.\n\n* Etter opptøyene ba president Trump folk om å dra hjem, men han gjentok udokumenterte anklager om valgfusk.\n\n* Etter opptøyene er det kommet krav om at Trump må gå av eller fjernes fra presidentembetet.",
+        "updated": "2021-01-09T14:57:35.292450Z",
+        "slug": "opptoeyene-i-washington"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "62949c1c-0dca-498c-9688-2736d815c9b6",
+          "title": "Ashley Parker",
+          "description": "",
+          "contacts": [],
+          "slug": "ashley-parker"
+        },
+        {
+          "id": "1062e6f4-a988-4a44-be16-c8bb9258dfc2",
+          "title": "Josh Dawsey",
+          "description": "",
+          "contacts": [],
+          "slug": "josh-dawsey"
+        },
+        {
+          "id": "d9484a6d-b324-43ff-bcf1-29ab213305dd",
+          "title": "Philip Rucker",
+          "description": "",
+          "contacts": [],
+          "slug": "philip-rucker"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "Qm5zJ4",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:Qm5zJ4",
+        "expandedUri": "https://www.aftenposten.no/personalia/i/Qm5zJ4/aa-leve-fullt-og-helt-ikke-stykkevis-og-delt"
+      },
+      "kicker": {
+        "value": "Nekrolog: Inger Ohren"
+      },
+      "title": {
+        "value": "Inger ønsket ikke å ta plass, men hun smøg seg dypt inn i manges hjerte"
+      },
+      "standfirst": {
+        "value": "Inger var hel ved. "
+      },
+      "label": {
+        "value": "PERSONALIA"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "119209dd-de7c-40b6-9580-c34c61150dfd"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T07:15:00Z",
+      "changes": {
+        "created": "2021-01-11T10:14:22Z",
+        "updated": "2021-01-13T07:20:05Z",
+        "firstPublished": "2021-01-13T07:15:00Z",
+        "published": "2021-01-13T07:15:00Z"
+      },
+      "characteristics": {
+        "lifetime": 60,
+        "hotness": 40
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "Qm5zJ4"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "aeaeb974-f2d0-492b-b751-b7e2efaee689",
+          "title": "Nekrolog",
+          "description": "",
+          "contacts": [],
+          "slug": "nekrolog"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "1BqJol",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:1BqJol",
+        "expandedUri": "https://www.aftenposten.no/kultur/i/1BqJol/anonymt-par-med-unik-samling-i-garasjen-vi-tenker-aldri-paa-hvor-mye"
+      },
+      "title": {
+        "value": "I denne garasjen finnes en av de største private samlingene av samtidskunst i Norge"
+      },
+      "standfirst": {
+        "value": "ÅLESUND (Aftenposten): Gjennom 20 år har et ukjent ektepar bygget opp en av landets største private kunstsamlinger. Det meste står på et garasjeloft, men nå skal deler av samlingen vises frem for første gang."
+      },
+      "label": {
+        "value": "KULTUR"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "2fc1c15c-58a8-40a9-a9ca-19392e835fef"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-12T19:37:39Z",
+      "changes": {
+        "created": "2021-01-11T10:30:45Z",
+        "updated": "2021-01-12T19:37:39Z",
+        "firstPublished": "2021-01-12T19:37:39Z",
+        "published": "2021-01-12T19:37:39Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "large",
+        "presentationType": "feature",
+        "doNotBundle": false,
+        "id": "1BqJol"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "4e7a2404-de95-40b5-a2da-0c2955db0887",
+          "title": "Arnfinn Mauren",
+          "description": "",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "arnfinn.mauren@aftenposten.no"
+            }
+          ],
+          "slug": "arnfinn-mauren"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "Ga09qQ",
+      "src": "jm-l",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:Ga09qQ",
+        "expandedUri": "https://www.aftenposten.no/verden/i/Ga09qQ/er-trumps-politiske-liv-over-naa-vi-skal-vaere-ekstremt-forsiktige-med"
+      },
+      "title": {
+        "value": "Kan Trump vinne i 2024? «Vi skal være ekstremt forsiktige med å avskrive ham.»"
+      },
+      "standfirst": {
+        "value": "Etter stormingen av Kongressen hagler kritikken mot USAs president. Øystein Langberg og Christina Pletten snakker om den siste ukens hendelser – og hva som vil skje fremover."
+      },
+      "label": {
+        "value": "VERDEN"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "26ab1f0e-0f07-49aa-b7ee-78f72f09db70"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-11T20:14:51Z",
+      "changes": {
+        "created": "2021-01-11T19:50:55Z",
+        "updated": "2021-01-12T08:59:51Z",
+        "firstPublished": "2021-01-11T20:14:51Z",
+        "published": "2021-01-11T20:14:51Z"
+      },
+      "characteristics": {
+        "lifetime": 20,
+        "hotness": 50
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "Ga09qQ"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": [
+        {
+          "id": "7c422b21-9488-4dac-9053-db75372da6a3",
+          "title": "Øystein Kløvstad Langberg",
+          "description": "USA-korrespondent",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "oystein.langberg@aftenposten.no"
+            }
+          ],
+          "image": "e109fa3f-d3ce-4791-a97f-9946e8fad1ac",
+          "imageAsset": {
+            "id": "e109fa3f-d3ce-4791-a97f-9946e8fad1ac",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=100&w=100&s=be044930511a3067fd01c895fe6da9d6f065dffe",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=200&w=200&s=71c15f1749e03712b0444836fb85862998c3393f",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=380&w=380&s=7dddec945c69ff02f54a5d701ea29ef5b267b612",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=580&w=580&s=437d061101bbefc97818e54877d8c5ffee7cdd17",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=780&w=780&s=1b8403499194b20e1d94481547d55ed69472cf34",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=980&w=980&s=785295fca83cd230be5727603502738eec79d76e",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=1024&w=1024&s=e594fed07235c16dd57943bec3ccbd81ff4519f3",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=1440&w=1440&s=ca9cb32b1ff67683bf5489c9816c944adbde78ce",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/e109fa3f-d3ce-4791-a97f-9946e8fad1ac?fit=crop&h=2048&w=2048&s=71471ea8e6f7ae07310f4f3a9dffd217a0309c59",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "oeystein-kloevstad-langberg-4"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "aPvR95",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:aPvR95",
+        "expandedUri": "https://www.aftenposten.no/sport/sprek/i/aPvR95/hjertelegen-ti-fordeler-av-aa-gaa-raske-turer"
+      },
+      "title": {
+        "value": "Ti fordeler av å gå raske turer: – Ekstra viktig nå, mener hjertelegen"
+      },
+      "standfirst": {
+        "value": "– Å være fysisk aktiv er ekstra viktig akkurat nå, mener kardiolog."
+      },
+      "label": {
+        "value": "SPREK"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "1ef9d6fe-7bcb-4c51-9822-8ffabeee070c"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-12T18:00:11Z",
+      "changes": {
+        "created": "2021-01-12T18:00:11Z",
+        "updated": "2021-01-12T21:08:52Z",
+        "firstPublished": "2021-01-12T18:00:11Z",
+        "published": "2021-01-12T18:00:11Z"
+      },
+      "characteristics": {
+        "lifetime": 60,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "aPvR95",
+        "sourceId": "riks",
+        "immediateArticleId": "39qxlM"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": []
+    },
+    {
+      "type": "teaser",
+      "id": "0K9aeJ",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:0K9aeJ",
+        "expandedUri": "https://www.aftenposten.no/sport/i/0K9aeJ/siste-norges-vm-motstander-trekker-seg"
+      },
+      "title": {
+        "value": "Norges VM-motstander trekker seg: – Det er flaut"
+      },
+      "standfirst": {
+        "value": "– Det er flaut, sier landslagstrener Robert Hedin. USA trakk seg tirsdag kveld fra VM i håndball."
+      },
+      "label": {
+        "value": "SPORT"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "47079e70-ee23-4c39-85f4-b904d724f151"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T05:23:11Z",
+      "changes": {
+        "created": "2021-01-12T21:48:29Z",
+        "updated": "2021-01-13T05:23:11Z",
+        "firstPublished": "2021-01-12T21:48:29Z",
+        "published": "2021-01-13T05:23:11Z"
+      },
+      "characteristics": {
+        "lifetime": 20,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "0K9aeJ",
+        "sourceId": "100-sport",
+        "immediateArticleId": "56baA6"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": []
+    },
+    {
+      "type": "teaser",
+      "id": "Ky6Kbe",
+      "src": "jm-l",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:Ky6Kbe",
+        "expandedUri": "https://www.aftenposten.no/amagasinet/i/Ky6Kbe/soeket-etter-overlevende-er-avsluttet-naa-skal-gjerdrum-folket-finne-ti"
+      },
+      "kicker": {
+        "value": "Historier fra Gjerdrum:"
+      },
+      "title": {
+        "value": "Før dagslyset kom, hadde Lars Markengbakken reddet 13 mennesker ut av raset. Alle var i live. "
+      },
+      "standfirst": {
+        "value": "Blålysene er slått av. Direktesendingene er over. Nå starter en ny kamp for skredofrene."
+      },
+      "label": {
+        "value": "A-MAGASINET"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "f501ad16-0436-4fce-a9ce-68e0352922c3"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-09T09:09:00Z",
+      "changes": {
+        "created": "2021-01-07T12:49:38Z",
+        "updated": "2021-01-12T17:16:11Z",
+        "firstPublished": "2021-01-09T09:09:00Z",
+        "published": "2021-01-09T09:09:00Z"
+      },
+      "characteristics": {
+        "lifetime": 60,
+        "hotness": 80
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "large",
+        "presentationType": "magazine",
+        "doNotBundle": false,
+        "id": "Ky6Kbe"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "8db1f1bc-d585-4584-8590-da57ee2834ad",
+          "title": "Helle Aarnes",
+          "description": "Journalist",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "helle.aarnes@aftenposten.no"
+            }
+          ],
+          "image": "085bb401-55e1-4e1b-b89d-4b8d5d360a7a",
+          "imageAsset": {
+            "id": "085bb401-55e1-4e1b-b89d-4b8d5d360a7a",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/085bb401-55e1-4e1b-b89d-4b8d5d360a7a?fit=crop&h=100&w=100&s=4613207c22d65b81cf42214bdcdaf6bd35ed8f6e",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/085bb401-55e1-4e1b-b89d-4b8d5d360a7a?fit=crop&h=200&w=200&s=60d915371c8c6fc9a499d5cc8a2ba8c789273c93",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/085bb401-55e1-4e1b-b89d-4b8d5d360a7a?fit=crop&h=380&w=380&s=cc62b07b4216df3897656146b8274fcd82003462",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/085bb401-55e1-4e1b-b89d-4b8d5d360a7a?fit=crop&h=580&w=580&s=27cc77831420ee0df2bf700709807acfe13ba064",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/085bb401-55e1-4e1b-b89d-4b8d5d360a7a?fit=crop&h=780&w=780&s=1c164f248c09589272e0ce9e33a270c4607577d9",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/085bb401-55e1-4e1b-b89d-4b8d5d360a7a?fit=crop&h=980&w=980&s=655c4529717455bb65fb2e2e033cad71ec070d1b",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/085bb401-55e1-4e1b-b89d-4b8d5d360a7a?fit=crop&h=1024&w=1024&s=fb07905621707414566b3ece9ff526c3123b6705",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/085bb401-55e1-4e1b-b89d-4b8d5d360a7a?fit=crop&h=1440&w=1440&s=05c6a7a77140c5656cd8fabdbb98cf34f5d85fea",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/085bb401-55e1-4e1b-b89d-4b8d5d360a7a?fit=crop&h=2048&w=2048&s=9f78da7acd96cc625519401f3cf1885d9aabb132",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "helle-aarnes"
+        },
+        {
+          "id": "fe49a8c5-0303-4977-8b13-c02262953a45",
+          "title": "Kjersti Nipen",
+          "description": "Journalist",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "kjersti.nipen@aftenposten.no"
+            }
+          ],
+          "image": "4b8372a8-da1b-44ec-a7c8-a65f4a79aed3",
+          "imageAsset": {
+            "id": "4b8372a8-da1b-44ec-a7c8-a65f4a79aed3",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/4b8372a8-da1b-44ec-a7c8-a65f4a79aed3?fit=crop&h=100&w=100&s=870675582c68a25d181f97c536370bb87131d3c2",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/4b8372a8-da1b-44ec-a7c8-a65f4a79aed3?fit=crop&h=200&w=200&s=b26323090d8f559300327e018c0bdb0f2c57c99e",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/4b8372a8-da1b-44ec-a7c8-a65f4a79aed3?fit=crop&h=380&w=380&s=596aab0522f6ccb5c90d78d83ee65c445d6163ed",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/4b8372a8-da1b-44ec-a7c8-a65f4a79aed3?fit=crop&h=580&w=580&s=9bb4b31b4517460610a59dcaca70549b5b7b84d1",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/4b8372a8-da1b-44ec-a7c8-a65f4a79aed3?fit=crop&h=780&w=780&s=b5f87cf5d1b506dec3dfb0c62e9b1d8a51fcaf04",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/4b8372a8-da1b-44ec-a7c8-a65f4a79aed3?fit=crop&h=980&w=980&s=205f417d8ddb0d2592715a4b1773a4ce757b2b95",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/4b8372a8-da1b-44ec-a7c8-a65f4a79aed3?fit=crop&h=1024&w=1024&s=977aca544d203ea2772d4b377248fd2d707a1df4",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/4b8372a8-da1b-44ec-a7c8-a65f4a79aed3?fit=crop&h=1440&w=1440&s=03f3c86ff7fed2604c32d959d437dce13985acfe",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/4b8372a8-da1b-44ec-a7c8-a65f4a79aed3?fit=crop&h=2048&w=2048&s=12271c2470beab04a6c36110fec8d62fad0b3ab6",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "kjersti-nipen"
+        },
+        {
+          "id": "fd386406-d8dc-45b7-bfc0-d45255f44b26",
+          "title": "Robert Veiåker Johansen",
+          "description": "Journalist",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "rob@aftenposten.no"
+            }
+          ],
+          "image": "39988932-86da-40e2-a6f1-e88383398bf4",
+          "imageAsset": {
+            "id": "39988932-86da-40e2-a6f1-e88383398bf4",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/39988932-86da-40e2-a6f1-e88383398bf4?fit=crop&h=100&w=100&s=8df2c1889953e819c20de20282e3a8cdc96052d1",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/39988932-86da-40e2-a6f1-e88383398bf4?fit=crop&h=200&w=200&s=a6bc933fed85038db54dfead8124bc577ea54e79",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/39988932-86da-40e2-a6f1-e88383398bf4?fit=crop&h=380&w=380&s=8939ddda6753f2e815c051e1a43afcddc6fae7e0",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/39988932-86da-40e2-a6f1-e88383398bf4?fit=crop&h=580&w=580&s=f1ef4eb9b7916a9e34858454995b2a5bef4184a6",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/39988932-86da-40e2-a6f1-e88383398bf4?fit=crop&h=780&w=780&s=03dc13b0849946e4fb901b8be65415a9e63c9a27",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/39988932-86da-40e2-a6f1-e88383398bf4?fit=crop&h=980&w=980&s=37290c0cae718ed6472768074e23f39098d2bb93",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/39988932-86da-40e2-a6f1-e88383398bf4?fit=crop&h=1024&w=1024&s=75557d78b2ac481b16f7927f839359984cc181bc",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/39988932-86da-40e2-a6f1-e88383398bf4?fit=crop&h=1440&w=1440&s=4f87f2a54bf7e734ce1f0227b1fc7db89c23ac9a",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/39988932-86da-40e2-a6f1-e88383398bf4?fit=crop&h=2048&w=2048&s=f257f08a26dedadac299477e5ea20fb3bf670b94",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "robert-veiaaker-johansen-5"
+        },
+        {
+          "id": "787d9d85-1ebc-4477-8ce9-38d06b8278cc",
+          "title": "Jan Tomas Espedal",
+          "description": "Fotograf",
+          "contacts": [],
+          "slug": "jan-tomas-espedal-foto"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "vA6RyV",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:vA6RyV",
+        "expandedUri": "https://www.aftenposten.no/e24/i/lE4xA7"
+      },
+      "title": {
+        "value": "Advarer om børsknekk"
+      },
+      "standfirst": {
+        "value": "Sjeføkonom Catherine Mann i storbanken Citi mener overoptimistiske aksjemarkeder har blitt frakoblet økonomiske realiteter. Hun tror det vil gå mange år før økonomien er friskmeldt etter pandemien. "
+      },
+      "label": {
+        "value": "ØKONOMI"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "d1878871-768d-46a1-abaa-1e9d212e68b7"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T08:10:54Z",
+      "changes": {
+        "created": "2021-01-13T07:20:21Z",
+        "updated": "2021-01-13T08:10:54Z",
+        "firstPublished": "2021-01-13T07:20:27Z",
+        "published": "2021-01-13T08:10:54Z"
+      },
+      "characteristics": {
+        "lifetime": 20,
+        "hotness": 50
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "sourceId": "e24",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "vA6RyV",
+        "immediateArticleId": "lE4xA7"
+      },
+      "access": {
+        "restrictions": []
+      },
+      "authors": []
+    },
+    {
+      "type": "teaser",
+      "id": "kR816L",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:kR816L",
+        "expandedUri": "https://www.aftenposten.no/personalia/i/kR816L/jan-o-etterlater-seg-et-stort-savn-i-hele-tennis-norge"
+      },
+      "kicker": {
+        "value": "Nekrolog: Jan O. Gundersen"
+      },
+      "title": {
+        "value": "Jan O. etterlater seg et stort savn i hele Tennis-Norge"
+      },
+      "standfirst": {
+        "value": "Han hadde alltid en morsom og treffende replikk i de fleste situasjoner."
+      },
+      "label": {
+        "value": "PERSONALIA"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "727dd392-33b5-49b2-8fc1-20b3073419b2"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T06:56:34Z",
+      "changes": {
+        "created": "2021-01-06T13:58:12Z",
+        "updated": "2021-01-13T07:02:44Z",
+        "firstPublished": "2021-01-13T06:56:34Z",
+        "published": "2021-01-13T06:56:34Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 40
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "kR816L"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "aeaeb974-f2d0-492b-b751-b7e2efaee689",
+          "title": "Nekrolog",
+          "description": "",
+          "contacts": [],
+          "slug": "nekrolog"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "BlG699",
+      "src": "jm-a",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:BlG699",
+        "expandedUri": "https://www.aftenposten.no/norge/i/BlG699/norge-satte-ny-positiv-rekord-testet-178000-paa-en-uke"
+      },
+      "title": {
+        "value": "Hvorfor hoppet smittetallene så kraftig forrige uke? Norge satte en ny, positiv rekord. "
+      },
+      "standfirst": {
+        "value": "Aldri før har så mange testet seg for korona i Norge som nå. Smitterekordene i forrige uke skyldtes i stor grad at langt flere valgte å teste seg."
+      },
+      "label": {
+        "value": "NORGE"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "7a9f9216-628b-4fab-b322-a03c29392090"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-12T17:44:52Z",
+      "changes": {
+        "created": "2021-01-03T17:55:05Z",
+        "updated": "2021-01-12T19:10:50Z",
+        "firstPublished": "2021-01-12T17:44:52Z",
+        "published": "2021-01-12T17:44:52Z"
+      },
+      "characteristics": {
+        "lifetime": 20,
+        "hotness": 80
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "no",
+        "frontPageCardSize": "small",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "BlG699"
+      },
+      "story": {
+        "id": "373de520-1061-4439-b90e-baa4097f40d2",
+        "title": "Koronaviruset",
+        "description": "* Koronaviruset rammer hele verden. Det meldes nå om flere lovende vaksineforsøk, og de første rulles ut om noen få uker.\n\n* Globalt er det registrert over 90 millioner smittede.\n\n* Det er registrert over 1,9 millioner døde. Verst rammet er USA, Brasil og India. Nå øker smitten i Europa igjen også. \n\n* Smittetallene har steget i Norge også i vinter. Det er innført omfattende tiltak for å begrense smitten.\n\n* Antallet innlagte på sykehus i Norge har også økt.",
+        "updated": "2021-01-11T06:31:58.264174Z",
+        "slug": "spredningen-av-coronaviruset"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "ae4a9a91-9abe-4148-91cb-ad9744fc2931",
+          "title": "Per Anders Johansen",
+          "description": "Journalist",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "per.anders.johansen@aftenposten.no"
+            }
+          ],
+          "image": "a5ed4a1a-300f-46f8-a780-117f38d03952",
+          "imageAsset": {
+            "id": "a5ed4a1a-300f-46f8-a780-117f38d03952",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/a5ed4a1a-300f-46f8-a780-117f38d03952?fit=crop&h=100&w=100&s=188c280b977df9cd432915a67ea9eb8ea191dd85",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/a5ed4a1a-300f-46f8-a780-117f38d03952?fit=crop&h=200&w=200&s=bc900f1f7a74d677413be57806a836426221cd7a",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/a5ed4a1a-300f-46f8-a780-117f38d03952?fit=crop&h=380&w=380&s=9ee51e5915c8e6474db92265fef68e3faa30cbb7",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/a5ed4a1a-300f-46f8-a780-117f38d03952?fit=crop&h=580&w=580&s=a310287645edbe0bbfbf191aa4dca3137a76ae33",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/a5ed4a1a-300f-46f8-a780-117f38d03952?fit=crop&h=780&w=780&s=86c8a5ce85c4b5ae3e5b976fe05a3deed4c4891b",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/a5ed4a1a-300f-46f8-a780-117f38d03952?fit=crop&h=980&w=980&s=ef291b904b16e0341b9d3202d61e46914963f7cb",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/a5ed4a1a-300f-46f8-a780-117f38d03952?fit=crop&h=1024&w=1024&s=452ec398eabd7240f6f6ccf68894b572dcf35527",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/a5ed4a1a-300f-46f8-a780-117f38d03952?fit=crop&h=1440&w=1440&s=55fdea5d76214981d8d8da19ed6461c17a0bd093",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/a5ed4a1a-300f-46f8-a780-117f38d03952?fit=crop&h=2048&w=2048&s=4483ef4ac76bc0fb989609453a45fbfaa5bbc860",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "per-anders-johansen"
+        },
+        {
+          "id": "07f1808e-eed0-4f36-9555-00bec11607e4",
+          "title": "Daniel Røed-Johansen",
+          "description": "Journalist",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "daniel.roed-johansen@aftenposten.no"
+            }
+          ],
+          "image": "d3e57e41-28a0-48a9-8256-7f016e7f6731",
+          "imageAsset": {
+            "id": "d3e57e41-28a0-48a9-8256-7f016e7f6731",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d3e57e41-28a0-48a9-8256-7f016e7f6731?fit=crop&h=100&w=100&s=d2b7d2186f9497e3b6801390204857327fc24fac",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d3e57e41-28a0-48a9-8256-7f016e7f6731?fit=crop&h=200&w=200&s=22e17c5e2a29a533e0bf2009dbb89e443af52ee5",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d3e57e41-28a0-48a9-8256-7f016e7f6731?fit=crop&h=380&w=380&s=2bd99438e1008ab0bf6deb38d380afece599bef7",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d3e57e41-28a0-48a9-8256-7f016e7f6731?fit=crop&h=580&w=580&s=0512bde21740757abee77a76475e8e13a79dd4ca",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d3e57e41-28a0-48a9-8256-7f016e7f6731?fit=crop&h=780&w=780&s=c9bd9ee1ab076160b42fb1492033332e76c2549e",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d3e57e41-28a0-48a9-8256-7f016e7f6731?fit=crop&h=980&w=980&s=1ae7907babc36f8e16a3e221b14d02641db64ba0",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d3e57e41-28a0-48a9-8256-7f016e7f6731?fit=crop&h=1024&w=1024&s=2aa8da397d6e2de162bfd821390d12ecf8400e2f",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d3e57e41-28a0-48a9-8256-7f016e7f6731?fit=crop&h=1440&w=1440&s=7d1b776f48606b2ad704ca66dbdcb294babaa9d9",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d3e57e41-28a0-48a9-8256-7f016e7f6731?fit=crop&h=2048&w=2048&s=477da69e0791b180d04591c42116ac879bbc588e",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "daniel-roeed-johansen"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "eKP1GO",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:eKP1GO",
+        "expandedUri": "https://www.aftenposten.no/osloby/sulten/i/eKP1GO/restaurantanmeldelse-szechuan-chengdu-til-sichuan-med-sinsentrikken"
+      },
+      "kicker": {
+        "value": "Restaurantanmeldelse:"
+      },
+      "title": {
+        "value": "Her vil alle ha den «hemmelige» menyen. Med god grunn."
+      },
+      "standfirst": {
+        "value": "Hemmeligheten i Trondheimsveien er ingen hemmelighet lenger. Men maten er like god. "
+      },
+      "label": {
+        "value": "SULTEN"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "095b3b10-cbd9-4353-ba7f-a3fc29139bef"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-12T16:07:23Z",
+      "changes": {
+        "created": "2020-11-13T14:50:29Z",
+        "updated": "2021-01-12T16:15:24Z",
+        "firstPublished": "2021-01-12T16:07:23Z",
+        "published": "2021-01-12T16:07:23Z"
+      },
+      "characteristics": {
+        "lifetime": 60,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "eKP1GO"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "cf6dc820-ae7d-4a41-b035-38fda310eec2",
+          "title": "Modesty",
+          "description": "",
+          "contacts": [],
+          "slug": "modesty"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "Qm5eaV",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:Qm5eaV",
+        "expandedUri": "https://www.aftenposten.no/norge/i/Qm5eaV/solberg-aapner-for-lettelser-hvis-smitten-flater-ut"
+      },
+      "title": {
+        "value": "Åpner for lettelser i tiltak hvis koronasmitten flater ut"
+      },
+      "standfirst": {
+        "value": "Til helgen skal regjeringen revurdere de nasjonale koronatiltakene. Statsministeren åpner for å gå over til mer lokale tiltak hvis smittesituasjonen bedrer seg."
+      },
+      "label": {
+        "value": "NORGE"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "73bfa155-f131-4e1d-9ece-47e375663254"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T06:53:10Z",
+      "changes": {
+        "created": "2021-01-13T06:34:15Z",
+        "updated": "2021-01-13T07:39:01Z",
+        "firstPublished": "2021-01-13T06:53:10Z",
+        "published": "2021-01-13T06:53:10Z"
+      },
+      "characteristics": {
+        "lifetime": 20,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "Qm5eaV",
+        "sourceId": "ntb",
+        "immediateArticleId": "NTB48dfeffe-f4ea-410f-a70e-b163b2c2b2d4"
+      },
+      "story": {
+        "id": "373de520-1061-4439-b90e-baa4097f40d2",
+        "title": "Koronaviruset",
+        "description": "* Koronaviruset rammer hele verden. Det meldes nå om flere lovende vaksineforsøk, og de første rulles ut om noen få uker.\n\n* Globalt er det registrert over 90 millioner smittede.\n\n* Det er registrert over 1,9 millioner døde. Verst rammet er USA, Brasil og India. Nå øker smitten i Europa igjen også. \n\n* Smittetallene har steget i Norge også i vinter. Det er innført omfattende tiltak for å begrense smitten.\n\n* Antallet innlagte på sykehus i Norge har også økt.",
+        "updated": "2021-01-11T06:31:58.264174Z",
+        "slug": "spredningen-av-coronaviruset"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": [
+        {
+          "id": "93768076-8043-41d5-acd7-6a68cfea8096",
+          "title": "NTB",
+          "description": "",
+          "contacts": [],
+          "slug": "ntb-12"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "kR8PdQ",
+      "src": "jm-l",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:kR8PdQ",
+        "expandedUri": "https://www.aftenposten.no/video/i/kR8PdQ/saras-intime-betroelser",
+        "theme": "video"
+      },
+      "kicker": {
+        "value": "Kortfilmen «Saras intime betroelser»:"
+      },
+      "title": {
+        "value": "Hva ville dine edle deler sagt hvis du kunne snakket med dem?"
+      },
+      "standfirst": {
+        "value": "Sara er 181 cm høy og synes hun generelt er for stor. Når det dårlige selvbildet hennes kommer i veien for en våt drøm, svarer Sara omsider stemmen under dynen og tar en alvorsprat med sin egen vulva. (Regi: Emilie Blichfeldt) "
+      },
+      "label": {
+        "value": "VIDEO"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "d3d6cff9-cdc1-40f7-a892-d690c0c25158"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-10T18:56:02Z",
+      "changes": {
+        "created": "2021-01-07T12:40:08Z",
+        "updated": "2021-01-10T18:56:02Z",
+        "firstPublished": "2021-01-08T13:11:45Z",
+        "published": "2021-01-10T18:56:02Z"
+      },
+      "characteristics": {
+        "lifetime": 60,
+        "hotness": 70
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "large",
+        "frontPageMMIntegration": "https://api.schibsted.tech/proxy/content/v3/publication/ap/multimedias/4564d340-9a4d-4b82-a28a-805428996a72/frontloop_sarasbetroelser",
+        "presentationType": "video",
+        "doNotBundle": false,
+        "id": "kR8PdQ"
+      },
+      "story": {
+        "id": "81eec8fe-6c05-4333-9da2-230913e6389f",
+        "title": "Video: Kortfilm",
+        "description": "Kortfilmer",
+        "updated": "2017-03-15T13:07:47.250Z",
+        "slug": "video-kortfilm"
+      },
+      "access": {
+        "restrictions": [
+          "closed"
+        ]
+      },
+      "authors": [
+        {
+          "id": "a0acaf50-54b0-41f8-9b88-78ac6bce1bd4",
+          "title": "Jonas Brenna",
+          "description": "Produsent / innkjøpssjef video",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "jonas.brenna@aftenposten.no"
+            }
+          ],
+          "image": "d1bcf305-680f-4194-b106-5d5b70bdf831",
+          "imageAsset": {
+            "id": "d1bcf305-680f-4194-b106-5d5b70bdf831",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d1bcf305-680f-4194-b106-5d5b70bdf831?fit=crop&h=100&w=100&s=ecaafec7c16876fae44f9b8e65c42dc81bc7b306",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d1bcf305-680f-4194-b106-5d5b70bdf831?fit=crop&h=200&w=200&s=570505ebe7add9ccf46d88398849ba49e830991a",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d1bcf305-680f-4194-b106-5d5b70bdf831?fit=crop&h=380&w=380&s=3c438e29482c0625fd23df7c62dfa6eff17f65c0",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d1bcf305-680f-4194-b106-5d5b70bdf831?fit=crop&h=580&w=580&s=d440523effb036d4d4c23a6c2074270cf250c1be",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d1bcf305-680f-4194-b106-5d5b70bdf831?fit=crop&h=780&w=780&s=2bb761ddb162674a4fb728687d10afb7bd1d9b7a",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d1bcf305-680f-4194-b106-5d5b70bdf831?fit=crop&h=980&w=980&s=08e68d142a3a04ca4a7adeb41b8c62df5d24bfb6",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d1bcf305-680f-4194-b106-5d5b70bdf831?fit=crop&h=1024&w=1024&s=d2894752063379c165b729136ef4aeb6330d098b",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d1bcf305-680f-4194-b106-5d5b70bdf831?fit=crop&h=1440&w=1440&s=a0f9d408b987e12d70ae38098135b3ca0ff1122a",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/d1bcf305-680f-4194-b106-5d5b70bdf831?fit=crop&h=2048&w=2048&s=40280a363b7e813896f453bdd3e64e5a36fd2e5f",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "jonas-brenna"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "OQ6K61",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:OQ6K61",
+        "expandedUri": "https://www.aftenposten.no/sport/i/OQ6K61/det-er-tungt-aa-faa-hoere-at-du-ikke-er-god-nok-bare-fordi-du-er-kvinne"
+      },
+      "title": {
+        "value": "Går til likestillingskamp: – Jeg ble nektet å spille med guttene. Det var uaktuelt. "
+      },
+      "standfirst": {
+        "value": "HOLMENKOLLEN: Tre norske idrettsprofiler forteller om sine opplevelser med manglende likestilling i sporten. Nå går de i spissen for likestillingskamp med sterke sponsorer i ryggen. "
+      },
+      "label": {
+        "value": "SPORT"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "a2102015-f9a2-43d2-9ec3-3b32605388e2"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-12T14:20:26Z",
+      "changes": {
+        "created": "2021-01-12T14:20:26Z",
+        "updated": "2021-01-12T17:26:41Z",
+        "firstPublished": "2021-01-12T14:20:26Z",
+        "published": "2021-01-12T14:20:26Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "OQ6K61",
+        "sourceId": "100-sport",
+        "immediateArticleId": "Ga0Ep9"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": []
+    },
+    {
+      "type": "teaser",
+      "id": "Ky6lo5",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:Ky6lo5",
+        "expandedUri": "https://www.aftenposten.no/verden/i/Ky6lo5/da-trump-ble-innsatt-skroet-han-paa-seg-tilskuere-naar-biden-innsettes"
+      },
+      "title": {
+        "value": "Da Trump ble innsatt, skrøt han på seg tilskuere. Når Biden innsettes, vil plassen være tom."
+      },
+      "standfirst": {
+        "value": "Folkefesten ryker til fordel for sikkerhet og smittevern når Joe Biden innsettes som president neste uke."
+      },
+      "label": {
+        "value": "VERDEN"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "7b23b74e-68ad-497d-9741-fe95e51039e6"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T08:48:39Z",
+      "changes": {
+        "created": "2021-01-04T21:05:24Z",
+        "updated": "2021-01-13T08:48:42Z",
+        "firstPublished": "2021-01-13T08:11:24Z",
+        "published": "2021-01-13T08:48:39Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 60
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "Ky6lo5"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": [
+        {
+          "id": "576d9822-5bb3-47d9-94f1-a71177c0dee0",
+          "title": "Morten Schwencke",
+          "description": "Journalist i Aftenposten",
+          "contacts": [
+            {
+              "type": "email",
+              "value": "morten.schwencke@aftenposten.no"
+            }
+          ],
+          "image": "cde7d1cf-8f34-4d7a-802b-70a45259b1a7",
+          "imageAsset": {
+            "id": "cde7d1cf-8f34-4d7a-802b-70a45259b1a7",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/cde7d1cf-8f34-4d7a-802b-70a45259b1a7?fit=crop&h=100&w=100&s=158df4835a8ad09fdb1f17c7fd9ac286eda5fac3",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/cde7d1cf-8f34-4d7a-802b-70a45259b1a7?fit=crop&h=200&w=200&s=512e5cfe5bbb3d2e362ef4a8915ef5ba4c893a91",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/cde7d1cf-8f34-4d7a-802b-70a45259b1a7?fit=crop&h=380&w=380&s=074a3e5adaeee648d0d3b571e85f0892b42e7000",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/cde7d1cf-8f34-4d7a-802b-70a45259b1a7?fit=crop&h=580&w=580&s=81d4382ead7ace08fee820b7ab22195d561377c3",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/cde7d1cf-8f34-4d7a-802b-70a45259b1a7?fit=crop&h=780&w=780&s=73b7c4079f44e78051a29d54e4b88c7c1d2b5ccc",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/cde7d1cf-8f34-4d7a-802b-70a45259b1a7?fit=crop&h=980&w=980&s=5814d346edcddba6c6deb1c62a89b73145ac92f4",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/cde7d1cf-8f34-4d7a-802b-70a45259b1a7?fit=crop&h=1024&w=1024&s=ede32c24dba1d9aef06de21b9be2d2f34488415e",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/cde7d1cf-8f34-4d7a-802b-70a45259b1a7?fit=crop&h=1440&w=1440&s=36a7145df766a9bc75f1f767d1df7f1070341e75",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/cde7d1cf-8f34-4d7a-802b-70a45259b1a7?fit=crop&h=2048&w=2048&s=daaca3ae20824b2923930e399c3cd3ea6652f855",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "morten-schwencke-2"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "EpJX9G",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:EpJX9G",
+        "expandedUri": "https://www.aftenposten.no/meninger/debatt/i/EpJX9G/ola-og-ali-er-unge-de-har-kjoept-sex-og-de-er-ikke-alene"
+      },
+      "title": {
+        "value": "«Ola» og «Ali» er unge. De har kjøpt sex. Og de er ikke alene."
+      },
+      "standfirst": {
+        "value": "Mange har et stereotypisk bilde av sexkjøpere. "
+      },
+      "label": {
+        "value": "DEBATT"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "5982e966-8996-470e-aa57-155fdfebde00"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-12T18:00:00Z",
+      "changes": {
+        "created": "2021-01-07T08:17:30Z",
+        "updated": "2021-01-12T15:41:45Z",
+        "firstPublished": "2021-01-12T18:00:00Z",
+        "published": "2021-01-12T18:00:00Z"
+      },
+      "characteristics": {
+        "lifetime": 60,
+        "hotness": 40
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "opinion",
+        "doNotBundle": false,
+        "id": "EpJX9G"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": [
+        {
+          "id": "b2f117da-0be3-42fe-a859-7eac4db3a8b4",
+          "title": "Tale Wetteland Stoa",
+          "description": "Psykiatrisk sykepleier og prosjektleder ",
+          "contacts": [],
+          "image": "aad1a86b-eae0-4393-9ccf-ccd59988e9e8",
+          "imageAsset": {
+            "id": "aad1a86b-eae0-4393-9ccf-ccd59988e9e8",
+            "urls": [
+              {
+                "url": "https://premium.vgc.no/v2/images/author/aad1a86b-eae0-4393-9ccf-ccd59988e9e8?fit=crop&h=100&w=100&s=98f9e61d6329e32eea46be2030c086f5ab35c0c9",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/aad1a86b-eae0-4393-9ccf-ccd59988e9e8?fit=crop&h=200&w=200&s=5134f91fe5263e6536f7f871059d173a9391d42b",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/aad1a86b-eae0-4393-9ccf-ccd59988e9e8?fit=crop&h=380&w=380&s=1b46826238a2a33a81065f89ade668463ad99adc",
+                "width": 380,
+                "height": 380
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/aad1a86b-eae0-4393-9ccf-ccd59988e9e8?fit=crop&h=580&w=580&s=e0678116b98a4338fe7baac9f1a68a30aca9ff6a",
+                "width": 580,
+                "height": 580
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/aad1a86b-eae0-4393-9ccf-ccd59988e9e8?fit=crop&h=780&w=780&s=fb1bc14323c420c2b0e3f9da4933c038d005eed2",
+                "width": 780,
+                "height": 780
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/aad1a86b-eae0-4393-9ccf-ccd59988e9e8?fit=crop&h=980&w=980&s=5372295316fcda2701f6bd464407e52f3c56b639",
+                "width": 980,
+                "height": 980
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/aad1a86b-eae0-4393-9ccf-ccd59988e9e8?fit=crop&h=1024&w=1024&s=e6d69c2d0ccfc1152585342a5b1a092e47a201d7",
+                "width": 1024,
+                "height": 1024
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/aad1a86b-eae0-4393-9ccf-ccd59988e9e8?fit=crop&h=1440&w=1440&s=ebb0b63121d19d1a11f42fc98664d27c8610fcbc",
+                "width": 1440,
+                "height": 1440
+              },
+              {
+                "url": "https://premium.vgc.no/v2/images/author/aad1a86b-eae0-4393-9ccf-ccd59988e9e8?fit=crop&h=2048&w=2048&s=88265a3746c264096443f027dfd26c2e09a2e38f",
+                "width": 2048,
+                "height": 2048
+              }
+            ]
+          },
+          "slug": "tale-stoa"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "lE4mKA",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:lE4mKA",
+        "expandedUri": "https://www.aftenposten.no/meninger/sid/i/lE4mKA/laerere-ta-all-mobbing-serioest"
+      },
+      "title": {
+        "value": "Jeg sa ifra om mobbingen flere ganger, og jeg fikk alltid samme svar"
+      },
+      "standfirst": {
+        "value": "Om det bare hadde hjulpet å si ifra, tror jeg mobbeofrene ville hatt det bedre nå. "
+      },
+      "label": {
+        "value": "SID"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "1f2de794-ec95-45b9-872a-ed1f39aa5a0c"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-12T20:00:00Z",
+      "changes": {
+        "created": "2021-01-07T11:31:18Z",
+        "updated": "2021-01-12T14:14:46Z",
+        "firstPublished": "2021-01-12T20:00:00Z",
+        "published": "2021-01-12T20:00:00Z"
+      },
+      "characteristics": {
+        "lifetime": 40,
+        "hotness": 40
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "medium",
+        "presentationType": "opinion",
+        "doNotBundle": false,
+        "id": "lE4mKA"
+      },
+      "access": {
+        "restrictions": [
+          "open"
+        ]
+      },
+      "authors": [
+        {
+          "id": "28301b21-6e76-4f09-a7e1-f42ed1b4b377",
+          "title": "Jente (17)",
+          "description": "",
+          "contacts": [],
+          "slug": "jente-17-3"
+        }
+      ]
+    },
+    {
+      "type": "teaser",
+      "id": "Al7Kyj",
+      "src": "b2b",
+      "target": {
+        "type": "link:internal",
+        "uri": "article:Al7Kyj",
+        "expandedUri": "https://www.aftenposten.no/sport/i/Al7Kyj/bredeli-faar-ikke-dra-til-vm-veldig-kjipt"
+      },
+      "title": {
+        "value": "Bredeli får ikke dra til VM: – Veldig kjipt"
+      },
+      "standfirst": {
+        "value": "KAIRO (VG) Harald Bredeli (60) holdes hjemme fra VM i Egypt av TV 2 på grunn av coronaviruset. Det syns den profilerte håndballkjenneren er dumt – men han forstår avgjørelsen."
+      },
+      "label": {
+        "value": "SPORT"
+      },
+      "image": {
+        "imageAsset": {
+          "id": "337e5801-a505-4d38-a162-bd8b47ff940a"
+        },
+        "type": "image"
+      },
+      "imagePosition": "left",
+      "timestamp": "2021-01-13T08:36:56Z",
+      "changes": {
+        "created": "2021-01-13T08:36:56Z",
+        "updated": "2021-01-13T08:43:44Z",
+        "firstPublished": "2021-01-13T08:36:56Z",
+        "published": "2021-01-13T08:36:56Z"
+      },
+      "characteristics": {
+        "lifetime": 20,
+        "hotness": 50
+      },
+      "clientProperties": {
+        "language": "nb"
+      },
+      "customProperties": {
+        "darkSkin": false,
+        "liveBlog": false,
+        "breaking": false,
+        "feature": false,
+        "commentsEnabled": "automatic",
+        "frontPageCardSize": "small",
+        "presentationType": "news",
+        "doNotBundle": false,
+        "id": "Al7Kyj",
+        "sourceId": "100-sport",
+        "immediateArticleId": "bnX0xl"
+      },
+      "access": {
+        "restrictions": [
+          "metered"
+        ]
+      },
+      "authors": []
+    }
+  ]
+}

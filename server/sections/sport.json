@@ -1,0 +1,1370 @@
+{
+    "section": {
+        "title": "Sport"
+    },
+    "teasers": [
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:M36V8r",
+                "expandedUri": "https://www.aftenposten.no/sport/skiskyting/i/M36V8r/thingnes-boe-vant-paa-soennens-bursdag-var-det-store-oensket"
+            },
+            "title": {
+                "value": "Thingnes Bø vant på sønnens bursdag: - Var det store ønsket"
+            },
+            "standfirst": {
+                "value": "På sønnen Gustavs ettårsdag klinket Johannes Thingnes Bø (27) til med nok en verdenscupseier."
+            },
+            "label": {
+                "value": "SKISKYTING"
+            },
+            "text": {
+                "value": "På sønnen Gustavs ettårsdag klinket Johannes Thingnes Bø (27) til med nok en verdenscupseier."
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "7df08c07-405d-411f-a4f4-5276f8cf2dfc",
+                    "size": {
+                        "width": 4582,
+                        "height": 2968
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/7df08c07-405d-411f-a4f4-5276f8cf2dfc?fit=crop&h=56&tight=true&w=100&s=f6fb23af23bc13e33013db7cc06b3253eb694ec7",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/7df08c07-405d-411f-a4f4-5276f8cf2dfc?fit=crop&h=113&tight=true&w=200&s=eb73b4342efbdf62bd6b225a976cd76ed87c9f29",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/7df08c07-405d-411f-a4f4-5276f8cf2dfc?fit=crop&h=214&tight=true&w=380&s=933078d6dc664e08ee14dc92adf609bf36dada3e",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/7df08c07-405d-411f-a4f4-5276f8cf2dfc?fit=crop&h=326&tight=true&w=580&s=e230e0d3c3380cd3fd61c07c0497d13861d6ce2b",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/7df08c07-405d-411f-a4f4-5276f8cf2dfc?fit=crop&h=439&tight=true&w=780&s=0f3c84513c062f8a3e5cd6fbe0e68174e70f78b8",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/7df08c07-405d-411f-a4f4-5276f8cf2dfc?fit=crop&h=551&tight=true&w=980&s=16bb5287059717211ef19ed0cee6e8eeafdf0a1b",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/7df08c07-405d-411f-a4f4-5276f8cf2dfc?fit=crop&h=576&tight=true&w=1024&s=64552d0129bb4bba5e1a6df2e1e26276b5b23585",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/7df08c07-405d-411f-a4f4-5276f8cf2dfc?fit=crop&h=810&tight=true&w=1440&s=fd0292016fd329c2e06aee3475dc739d0dc41121",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/7df08c07-405d-411f-a4f4-5276f8cf2dfc?fit=crop&h=1152&tight=true&w=2048&s=c38f64ea80637fff34720c0453db1352e0713fbc",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-13T14:31:48Z",
+            "changes": {
+                "created": "2021-01-13T14:31:48Z",
+                "updated": "2021-01-13T14:44:06Z",
+                "firstPublished": "2021-01-13T14:31:48Z",
+                "published": "2021-01-13T14:31:48Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "id": "M36V8r",
+                "sourceId": "100-sport",
+                "immediateArticleId": "zgMqjw"
+            },
+            "access": {
+                "restrictions": []
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:nAGqLm",
+                "expandedUri": "https://www.aftenposten.no/sport/i/nAGqLm/mcgrath-holder-paa-vm-haapet-naa-teller-hver-eneste-dag"
+            },
+            "title": {
+                "value": "McGrath holder på VM-håpet: – Nå teller hver eneste dag "
+            },
+            "standfirst": {
+                "value": "Supertalentet Atle Lie McGrath (20) pådro seg en skade i kneet under det første storslalåmrennet i Adelboden, snaue fem uker før hans første seniormesterskap."
+            },
+            "label": {
+                "value": "SPORT"
+            },
+            "text": {
+                "value": "Supertalentet Atle Lie McGrath (20) pådro seg en skade i kneet under det første storslalåmrennet i Adelboden, snaue fem…"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "1bca324f-0d80-4789-b6d5-30360c6e928b",
+                    "size": {
+                        "width": 3827,
+                        "height": 2617
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1bca324f-0d80-4789-b6d5-30360c6e928b?fit=crop&h=56&tight=true&w=100&s=cc9b9aede27a44c2d9d389a8eaa8f94ca2805591",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1bca324f-0d80-4789-b6d5-30360c6e928b?fit=crop&h=113&tight=true&w=200&s=33d34725d088eec2ae0dec7e39ba5640cd44fb34",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1bca324f-0d80-4789-b6d5-30360c6e928b?fit=crop&h=214&tight=true&w=380&s=c18ad5fa270f5237856457a33a70d80834c21d56",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1bca324f-0d80-4789-b6d5-30360c6e928b?fit=crop&h=326&tight=true&w=580&s=251d07ac8e4542bf955f9f1e06de7fecaa1da2e4",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1bca324f-0d80-4789-b6d5-30360c6e928b?fit=crop&h=439&tight=true&w=780&s=fe771f7777cd93d6c154bf97497e41619e6c5e88",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1bca324f-0d80-4789-b6d5-30360c6e928b?fit=crop&h=551&tight=true&w=980&s=f5530b3c79a3c7dfab19e4bf1aab71c52694de83",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1bca324f-0d80-4789-b6d5-30360c6e928b?fit=crop&h=576&tight=true&w=1024&s=8dfedbf44b5907540a3f3fd0884fd11c2770b628",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1bca324f-0d80-4789-b6d5-30360c6e928b?fit=crop&h=810&tight=true&w=1440&s=ea57fdfee8f1683aed34d7fba6bfb1cfb72004d5",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1bca324f-0d80-4789-b6d5-30360c6e928b?fit=crop&h=1152&tight=true&w=2048&s=af12d1332479d8696aa0f1e10ef06f442af06efb",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-13T11:16:39Z",
+            "changes": {
+                "created": "2021-01-13T11:16:39Z",
+                "updated": "2021-01-13T11:16:39Z",
+                "firstPublished": "2021-01-13T11:16:39Z",
+                "published": "2021-01-13T11:16:39Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "id": "nAGqLm",
+                "sourceId": "100-sport",
+                "immediateArticleId": "Qm5VrJ"
+            },
+            "access": {
+                "restrictions": []
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:Ga0WQl",
+                "expandedUri": "https://www.aftenposten.no/sport/i/Ga0WQl/landslagssjef-uten-landslag-mentalt-utladet"
+            },
+            "title": {
+                "value": "Landslagssjef uten landslag: – Mentalt utladet "
+            },
+            "standfirst": {
+                "value": "Landslagssjef Petter Thoresen (59) tok ut sitt siste landslag for ett år siden. Nå håper han inderlig at han kan samle det igjen i god tid før ishockey-VM i mai – og at det blir noe av etter avlysningen i fjor. "
+            },
+            "label": {
+                "value": "SPORT"
+            },
+            "text": {
+                "value": "Landslagssjef Petter Thoresen (59) tok ut sitt siste landslag for ett år siden."
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "1b09bf07-179e-47fe-9e7f-c2ec5f3c1dd5",
+                    "size": {
+                        "width": 3840,
+                        "height": 2560
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1b09bf07-179e-47fe-9e7f-c2ec5f3c1dd5?fit=crop&h=56&tight=true&w=100&s=5b09fac24c1bfc3f4c4ba246711e8a6da8744c95",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1b09bf07-179e-47fe-9e7f-c2ec5f3c1dd5?fit=crop&h=113&tight=true&w=200&s=30175d7afed36659088f07a4ff127d85713d71e0",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1b09bf07-179e-47fe-9e7f-c2ec5f3c1dd5?fit=crop&h=214&tight=true&w=380&s=5d98b0d1c3a89ae182ea561d5c3389c49cb19f91",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1b09bf07-179e-47fe-9e7f-c2ec5f3c1dd5?fit=crop&h=326&tight=true&w=580&s=a2047728a7b67c20b0b9b2fe05ef95e208cbd5c3",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1b09bf07-179e-47fe-9e7f-c2ec5f3c1dd5?fit=crop&h=439&tight=true&w=780&s=6fe8cd8728c1151d335c852b141b5aa727538699",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1b09bf07-179e-47fe-9e7f-c2ec5f3c1dd5?fit=crop&h=551&tight=true&w=980&s=e6ac1a46262c4c0e668dbd6a53d385570d62596f",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1b09bf07-179e-47fe-9e7f-c2ec5f3c1dd5?fit=crop&h=576&tight=true&w=1024&s=e8c2de8593a087eef67fdf360c5efdf3f24f741d",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1b09bf07-179e-47fe-9e7f-c2ec5f3c1dd5?fit=crop&h=810&tight=true&w=1440&s=4ff04c19c84a40973e809a78087d0d5a7efb0b2f",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/1b09bf07-179e-47fe-9e7f-c2ec5f3c1dd5?fit=crop&h=1152&tight=true&w=2048&s=a240fa5dc96fae29f3b3a4ef266dfa6daf70b28e",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-13T02:44:25Z",
+            "changes": {
+                "created": "2021-01-13T02:44:25Z",
+                "updated": "2021-01-13T02:44:25Z",
+                "firstPublished": "2021-01-13T02:44:25Z",
+                "published": "2021-01-13T02:44:25Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "id": "Ga0WQl",
+                "sourceId": "100-sport",
+                "immediateArticleId": "aPvzPA"
+            },
+            "access": {
+                "restrictions": []
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:nAGe5m",
+                "expandedUri": "https://www.aftenposten.no/sport/langrenn/i/nAGe5m/bekymret-for-oppheving-av-hoeydehusforbud-da-skal-alle-ha-det"
+            },
+            "title": {
+                "value": "Bekymret for oppheving av høydehusforbud: – Da skal alle ha det"
+            },
+            "standfirst": {
+                "value": "LYGNA (VG) Langrennslandslaget kommer ikke til å kaste seg inn i et høydehus med det første. De har imidlertid forståelse for friidrettsutøvere som ønsker en midlertidig oppheving av forbudet."
+            },
+            "label": {
+                "value": "LANGRENN"
+            },
+            "text": {
+                "value": "LYGNA (VG) Langrennslandslaget kommer ikke til å kaste seg inn i et høydehus med det første."
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "9c9ff3f2-c6e6-4cb6-b562-a78b6686f475",
+                    "size": {
+                        "width": 4677,
+                        "height": 2802
+                    },
+                    "hotspot": {
+                        "x": 1143,
+                        "y": 185,
+                        "width": 2860,
+                        "height": 2150
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/9c9ff3f2-c6e6-4cb6-b562-a78b6686f475?fit=crop&h=56&tight=true&w=100&s=db1e2e8873bbd4bfc8381a3ce2b7da7187813e69",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/9c9ff3f2-c6e6-4cb6-b562-a78b6686f475?fit=crop&h=113&tight=true&w=200&s=5a2a20198ff2632712ed75403a76a4a3aa6de0a8",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/9c9ff3f2-c6e6-4cb6-b562-a78b6686f475?fit=crop&h=214&tight=true&w=380&s=70293d148469435a2efaa573a469ebd455243406",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/9c9ff3f2-c6e6-4cb6-b562-a78b6686f475?fit=crop&h=326&tight=true&w=580&s=95d2cc30257920972f5fcce9998384573439687a",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/9c9ff3f2-c6e6-4cb6-b562-a78b6686f475?fit=crop&h=439&tight=true&w=780&s=e47384fa0925c4353b55daf9a6cdad2c679b0f2d",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/9c9ff3f2-c6e6-4cb6-b562-a78b6686f475?fit=crop&h=551&tight=true&w=980&s=d85c3c438313a503dcb9cb1950573979f1a7463b",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/9c9ff3f2-c6e6-4cb6-b562-a78b6686f475?fit=crop&h=576&tight=true&w=1024&s=d820a3a9fd69a17f9226dbb30c3af22574c25e72",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/9c9ff3f2-c6e6-4cb6-b562-a78b6686f475?fit=crop&h=810&tight=true&w=1440&s=6cdb0920844ea71a2bfc200fa48be616ee187602",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/9c9ff3f2-c6e6-4cb6-b562-a78b6686f475?fit=crop&h=1152&tight=true&w=2048&s=244cfb67a98709bc47de654f731ae3f5b1ef4165",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-12T12:11:56Z",
+            "changes": {
+                "created": "2021-01-12T12:11:56Z",
+                "updated": "2021-01-12T19:46:59Z",
+                "firstPublished": "2021-01-12T12:11:56Z",
+                "published": "2021-01-12T12:11:56Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "id": "nAGe5m",
+                "sourceId": "100-sport",
+                "immediateArticleId": "Qm56nJ"
+            },
+            "access": {
+                "restrictions": []
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:bnX1Oe",
+                "expandedUri": "https://www.aftenposten.no/sport/skiskyting/i/bnX1Oe/maa-vrake-medaljekandidater-til-vm-det-er-mission-impossible"
+            },
+            "title": {
+                "value": "Må vrake medaljekandidater til VM: – Det er «mission impossible»"
+            },
+            "standfirst": {
+                "value": "Landslagssjef Per-Arne Botnan innrømmer at forbundet kommer til å vrake medaljekandidater til skiskytter-VM i Pokljuka i neste måned."
+            },
+            "label": {
+                "value": "SKISKYTING"
+            },
+            "text": {
+                "value": "Landslagssjef Per-Arne Botnan innrømmer at forbundet kommer til å vrake medaljekandidater til skiskytter-VM i Pokljuka i…"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "cf6016be-b6b7-4659-aed0-3264470aa74c",
+                    "size": {
+                        "width": 1089,
+                        "height": 681
+                    },
+                    "hotspot": {
+                        "x": 102,
+                        "y": 12,
+                        "width": 860,
+                        "height": 644
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/cf6016be-b6b7-4659-aed0-3264470aa74c?fit=crop&h=56&tight=true&w=100&s=0727271c0303843da429f8cc2823a182d2213918",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/cf6016be-b6b7-4659-aed0-3264470aa74c?fit=crop&h=113&tight=true&w=200&s=d7351b7b514b1391232dcf9f388b9fffdbe42e90",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/cf6016be-b6b7-4659-aed0-3264470aa74c?fit=crop&h=214&tight=true&w=380&s=80f1044b178a5ea54d4173841fee502f40a39fce",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/cf6016be-b6b7-4659-aed0-3264470aa74c?fit=crop&h=326&tight=true&w=580&s=cc4c87c360c4131a54833faeee52152a482f4f4e",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/cf6016be-b6b7-4659-aed0-3264470aa74c?fit=crop&h=439&tight=true&w=780&s=691d61acf98ecb5e8b61fc52e088492a33a28800",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/cf6016be-b6b7-4659-aed0-3264470aa74c?fit=crop&h=551&tight=true&w=980&s=d59079617402baea18966270edebff0665cda333",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/cf6016be-b6b7-4659-aed0-3264470aa74c?fit=crop&h=576&tight=true&w=1024&s=d0b2dccd951fa44cf4bb77c0c61f8f7fc16cdf0a",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/cf6016be-b6b7-4659-aed0-3264470aa74c?fit=crop&h=613&tight=true&w=1089&s=41d21338878be4a6e0b58611d3f2f373c254bfc0",
+                            "width": 1089,
+                            "height": 613
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-12T07:47:55Z",
+            "changes": {
+                "created": "2021-01-12T07:47:55Z",
+                "updated": "2021-01-12T08:21:37Z",
+                "firstPublished": "2021-01-12T07:47:55Z",
+                "published": "2021-01-12T07:47:55Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "medium",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "bnX1Oe",
+                "sourceId": "100-sport",
+                "immediateArticleId": "nAGe1L"
+            },
+            "access": {
+                "restrictions": [
+                    "automatic"
+                ]
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:Ga09kB",
+                "expandedUri": "https://www.aftenposten.no/sport/langrenn/i/Ga09kB/ekspertene-tror-stjerner-mister-vm-nm-blir-vaere-eller-ikke-vaere"
+            },
+            "title": {
+                "value": "Ekspertene tror stjerner mister VM: – NM blir være eller ikke være "
+            },
+            "standfirst": {
+                "value": "VG ba ekspertene Torgeir Bjørn (NRK) og Petter Skinstad (TV 2) spå VM-troppen i langrenn. De tror mesterskapet vil gå uten profiler som Niklas Dyrhaug og Didrik Tønseth, mens Finn Hågen Krogh og Martin Løwstrøm Nyenget henger i en tynn tråd. "
+            },
+            "label": {
+                "value": "LANGRENN"
+            },
+            "text": {
+                "value": "VG ba ekspertene Torgeir Bjørn (NRK) og Petter Skinstad (TV 2) spå VM-troppen i langrenn."
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "988a9426-d327-464d-b5bd-2efa39154532",
+                    "size": {
+                        "width": 3937,
+                        "height": 2625
+                    },
+                    "hotspot": {
+                        "x": 474,
+                        "y": 0,
+                        "width": 2704,
+                        "height": 2026
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/988a9426-d327-464d-b5bd-2efa39154532?fit=crop&h=56&tight=true&w=100&s=0ba86a6c17dc6ee2369d419b5f177242b7bb8d4a",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/988a9426-d327-464d-b5bd-2efa39154532?fit=crop&h=113&tight=true&w=200&s=e69687acd929e6e633b8e14e2724f92e6a50e66a",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/988a9426-d327-464d-b5bd-2efa39154532?fit=crop&h=214&tight=true&w=380&s=46a7573dada05d6c8ffcd3efaf578a0dfdd2b713",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/988a9426-d327-464d-b5bd-2efa39154532?fit=crop&h=326&tight=true&w=580&s=6ea80ceffc72f249edc9672d6b9cdd3057305b1f",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/988a9426-d327-464d-b5bd-2efa39154532?fit=crop&h=439&tight=true&w=780&s=5dc97e16118d0470d0e00dbbb0d93ddecf1ce0aa",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/988a9426-d327-464d-b5bd-2efa39154532?fit=crop&h=551&tight=true&w=980&s=d42e26f49c6eca738281896bdce6f4d0a6c9d8d0",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/988a9426-d327-464d-b5bd-2efa39154532?fit=crop&h=576&tight=true&w=1024&s=a23d2b167dcf9f8d8c401419499b77eb442dfbb1",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/988a9426-d327-464d-b5bd-2efa39154532?fit=crop&h=810&tight=true&w=1440&s=e010159ea60fa5624ae80a60c873ab6fc01e54a4",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/988a9426-d327-464d-b5bd-2efa39154532?fit=crop&h=1152&tight=true&w=2048&s=b4bc1cd14630871de9cf7efcea617238cc3cab64",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-12T04:35:21Z",
+            "changes": {
+                "created": "2021-01-12T04:35:21Z",
+                "updated": "2021-01-12T04:35:21Z",
+                "firstPublished": "2021-01-12T04:35:21Z",
+                "published": "2021-01-12T04:35:21Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "id": "Ga09kB",
+                "sourceId": "100-sport",
+                "immediateArticleId": "qAJ401"
+            },
+            "access": {
+                "restrictions": []
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:weRzJo",
+                "expandedUri": "https://www.aftenposten.no/sport/langrenn/i/weRzJo/russerne-feirer-tour-seieren-han-hadde-slaatt-klaebo-med-ett-minutt"
+            },
+            "title": {
+                "value": "Russerne feirer Tour-seieren: – Han hadde slått Klæbo med ett minutt"
+            },
+            "standfirst": {
+                "value": "Aleksandr Bolsjunov (24) knuste konkurrentene i Tour de Ski. Nå diskuterer russerne om han hadde gjort det også med nordmennene på startstreken."
+            },
+            "label": {
+                "value": "LANGRENN"
+            },
+            "text": {
+                "value": "Aleksandr Bolsjunov (24) knuste konkurrentene i Tour de Ski. Nå diskuterer russerne om han hadde gjort det også med…"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "279f19b2-89ab-4b46-b668-a0ca1ed12b9e",
+                    "size": {
+                        "width": 5054,
+                        "height": 3369
+                    },
+                    "hotspot": {
+                        "x": 2223,
+                        "y": 523,
+                        "width": 735,
+                        "height": 552
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/279f19b2-89ab-4b46-b668-a0ca1ed12b9e?fit=crop&h=56&tight=true&w=100&s=94656d1cf980a1e4576d6a46c46e91bbfdcd4b4a",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/279f19b2-89ab-4b46-b668-a0ca1ed12b9e?fit=crop&h=113&tight=true&w=200&s=fd3cec5437b74436310243053067c7677c961ae4",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/279f19b2-89ab-4b46-b668-a0ca1ed12b9e?fit=crop&h=214&tight=true&w=380&s=8db5b65477b9feb9a3b1361074d24d97f2cd42bb",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/279f19b2-89ab-4b46-b668-a0ca1ed12b9e?fit=crop&h=326&tight=true&w=580&s=2e9728fa01baf5e7fab05d0d906f269b8f670671",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/279f19b2-89ab-4b46-b668-a0ca1ed12b9e?fit=crop&h=439&tight=true&w=780&s=95dbb236aff360900ecba15dd69f977aaaa2ff1c",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/279f19b2-89ab-4b46-b668-a0ca1ed12b9e?fit=crop&h=551&tight=true&w=980&s=d6f55ad83c32f777618cdbacee323e41a569d01a",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/279f19b2-89ab-4b46-b668-a0ca1ed12b9e?fit=crop&h=576&tight=true&w=1024&s=666098dea1e293caecd3c2bdc53575fc7007ea82",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/279f19b2-89ab-4b46-b668-a0ca1ed12b9e?fit=crop&h=810&tight=true&w=1440&s=0e06613c859d6203f4fde23df67fc4c696c74332",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/279f19b2-89ab-4b46-b668-a0ca1ed12b9e?fit=crop&h=1152&tight=true&w=2048&s=6b30ae1c0e376d2408675dfadb80b24f2b13107f",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-11T21:28:01Z",
+            "changes": {
+                "created": "2021-01-11T21:28:01Z",
+                "updated": "2021-01-12T06:28:54Z",
+                "firstPublished": "2021-01-11T21:28:01Z",
+                "published": "2021-01-11T21:28:01Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "small",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "weRzJo",
+                "sourceId": "100-sport",
+                "immediateArticleId": "Ga09Jm"
+            },
+            "access": {
+                "restrictions": [
+                    "automatic"
+                ]
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:aPvnaE",
+                "expandedUri": "https://www.aftenposten.no/sport/i/aPvnaE/bildet-som-kan-stoppe-ishockey-vm"
+            },
+            "title": {
+                "value": "Bildet som kan stoppe ishockey-VM"
+            },
+            "standfirst": {
+                "value": "Norges ishockeyforbunds president Tage Pettersen tror dette dagsferske og oppsiktsvekkende bildet taler i favør av det nordiske kravet om å flytte ishockey-VM om fire måneder fra Hviterussland. "
+            },
+            "label": {
+                "value": "SPORT"
+            },
+            "text": {
+                "value": "Norges ishockeyforbunds president Tage Pettersen tror dette dagsferske og oppsiktsvekkende bildet taler i favør av det…"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "c96a7f18-aedf-46e6-8ad5-287afe33170d",
+                    "size": {
+                        "width": 2110,
+                        "height": 1223
+                    },
+                    "hotspot": {
+                        "x": 464,
+                        "y": 142,
+                        "width": 989,
+                        "height": 740
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c96a7f18-aedf-46e6-8ad5-287afe33170d?fit=crop&h=56&tight=true&w=100&s=46e6cfbb7957141675e784e3602f689a10c24444",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c96a7f18-aedf-46e6-8ad5-287afe33170d?fit=crop&h=113&tight=true&w=200&s=4983830be376d93203b88f16adce6f9e648f8d7a",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c96a7f18-aedf-46e6-8ad5-287afe33170d?fit=crop&h=214&tight=true&w=380&s=fa25a43ab4034d8229ccabfc093a4565b37a5a64",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c96a7f18-aedf-46e6-8ad5-287afe33170d?fit=crop&h=326&tight=true&w=580&s=293bb417f5b9d8e2d73bc36243fe03e429f0ad3e",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c96a7f18-aedf-46e6-8ad5-287afe33170d?fit=crop&h=439&tight=true&w=780&s=3a53880df0d529f06e4f7959733d5056edbe2647",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c96a7f18-aedf-46e6-8ad5-287afe33170d?fit=crop&h=551&tight=true&w=980&s=262f7270781d69986f1d25fe8be27c78ffc17a5d",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c96a7f18-aedf-46e6-8ad5-287afe33170d?fit=crop&h=576&tight=true&w=1024&s=e3c99d70ee4eaa9520a6fbb4aec608cd70524ca5",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c96a7f18-aedf-46e6-8ad5-287afe33170d?fit=crop&h=810&tight=true&w=1440&s=d9057b6ef28bac8ac0a8a674a6ea087a97d64a16",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/c96a7f18-aedf-46e6-8ad5-287afe33170d?fit=crop&h=1152&tight=true&w=2048&s=d0a38c43aaf7c93306cb72c02971ea8477bfe065",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-11T19:05:45Z",
+            "changes": {
+                "created": "2021-01-11T19:05:45Z",
+                "updated": "2021-01-11T21:30:05Z",
+                "firstPublished": "2021-01-11T19:05:45Z",
+                "published": "2021-01-11T19:05:45Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "small",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "aPvnaE",
+                "sourceId": "100-sport",
+                "immediateArticleId": "R967aa"
+            },
+            "access": {
+                "restrictions": [
+                    "automatic"
+                ]
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:kR8r8B",
+                "expandedUri": "https://www.aftenposten.no/sport/i/kR8r8B/egner-granerud-advarer-norsk-hopplegende-hadde-ikke-foelt-meg-altfor"
+            },
+            "title": {
+                "value": "Egner Granerud advarer norsk hopplegende: – Hadde ikke følt meg altfor trygg"
+            },
+            "standfirst": {
+                "value": "Med seieren i Titisee-Neustadt er Halvor Egner Granerud én verdenscupseier unna å tangere rekorden til Roar Ljøkelsøy."
+            },
+            "label": {
+                "value": "SPORT"
+            },
+            "text": {
+                "value": "Med seieren i Titisee-Neustadt er Halvor Egner Granerud én verdenscupseier unna å tangere rekorden til Roar Ljøkelsøy."
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "d4c779a3-f51b-40e9-9ebe-8ce10abe4473",
+                    "size": {
+                        "width": 6495,
+                        "height": 4330
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/d4c779a3-f51b-40e9-9ebe-8ce10abe4473?fit=crop&h=56&tight=true&w=100&s=9606624a1b42844b8d8f3a46155194db793265da",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/d4c779a3-f51b-40e9-9ebe-8ce10abe4473?fit=crop&h=113&tight=true&w=200&s=3bfe0d73af872b6f57f29e6734b83f6c249a5dfd",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/d4c779a3-f51b-40e9-9ebe-8ce10abe4473?fit=crop&h=214&tight=true&w=380&s=ba816dd432c085261d10bb8e07738f1a7cac4aba",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/d4c779a3-f51b-40e9-9ebe-8ce10abe4473?fit=crop&h=326&tight=true&w=580&s=a4ed57aeccb42624f02e9411486c7d4a27ece9a5",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/d4c779a3-f51b-40e9-9ebe-8ce10abe4473?fit=crop&h=439&tight=true&w=780&s=0a289654ae34664a438959c21c2d18ccc2c003e9",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/d4c779a3-f51b-40e9-9ebe-8ce10abe4473?fit=crop&h=551&tight=true&w=980&s=7fc93e662839a7aac2b66575d2c69432a6426722",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/d4c779a3-f51b-40e9-9ebe-8ce10abe4473?fit=crop&h=576&tight=true&w=1024&s=43a67175abaf573ac50118427d65395c07aff2d3",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/d4c779a3-f51b-40e9-9ebe-8ce10abe4473?fit=crop&h=810&tight=true&w=1440&s=8d2d5ce59de4ac39b0298245910434b267b41e43",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/d4c779a3-f51b-40e9-9ebe-8ce10abe4473?fit=crop&h=1152&tight=true&w=2048&s=c3fb17cafb776f41e7719995d509d9ac4bf52838",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-10T21:19:52Z",
+            "changes": {
+                "created": "2021-01-10T21:19:52Z",
+                "updated": "2021-01-11T01:32:11Z",
+                "firstPublished": "2021-01-10T21:19:52Z",
+                "published": "2021-01-10T21:19:52Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "id": "kR8r8B",
+                "sourceId": "100-sport",
+                "immediateArticleId": "56bgbb"
+            },
+            "access": {
+                "restrictions": []
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:gWvee5",
+                "expandedUri": "https://www.aftenposten.no/sport/langrenn/i/gWvee5/diggins-i-taarer-etter-overlegen-tour-triumf"
+            },
+            "title": {
+                "value": "Tok til tårene etter overlegen sammenlagtseier i Tour de Ski"
+            },
+            "standfirst": {
+                "value": "Jessica Diggins er den første amerikaneren som vinner det prestisjetunge etapperennet, og lot tårene ta overhånd i målområdet."
+            },
+            "label": {
+                "value": "LANGRENN"
+            },
+            "text": {
+                "value": "Jessica Diggins er den første amerikaneren som vinner det prestisjetunge etapperennet, og lot tårene ta overhånd i…"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "169b8e53-c7a3-417b-b1f8-e2adfa490728",
+                    "size": {
+                        "width": 4839,
+                        "height": 3226
+                    },
+                    "hotspot": {
+                        "x": 1101,
+                        "y": 0,
+                        "width": 2792,
+                        "height": 2098
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/169b8e53-c7a3-417b-b1f8-e2adfa490728?fit=crop&h=56&tight=true&w=100&s=93a96bf7746ec4d35f5437a670b1b9e942aeab36",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/169b8e53-c7a3-417b-b1f8-e2adfa490728?fit=crop&h=113&tight=true&w=200&s=d34e1baf2c497f54bad14dc90b6864c9c84e9a9c",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/169b8e53-c7a3-417b-b1f8-e2adfa490728?fit=crop&h=214&tight=true&w=380&s=07bfc87010948f56cafec9c6cc58b2a5713b327c",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/169b8e53-c7a3-417b-b1f8-e2adfa490728?fit=crop&h=326&tight=true&w=580&s=ad525bb378621b2c54af6b4741e2b011ad5a3a01",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/169b8e53-c7a3-417b-b1f8-e2adfa490728?fit=crop&h=439&tight=true&w=780&s=56f5962d6f377d6bca39422b0907a13bfd2bf6f2",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/169b8e53-c7a3-417b-b1f8-e2adfa490728?fit=crop&h=551&tight=true&w=980&s=706849f65f8c15413794e09a8756352afbd3a2a1",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/169b8e53-c7a3-417b-b1f8-e2adfa490728?fit=crop&h=576&tight=true&w=1024&s=df5b05aa8928e8808dbd8afdf784b42cc4e8695e",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/169b8e53-c7a3-417b-b1f8-e2adfa490728?fit=crop&h=810&tight=true&w=1440&s=98e610980fe2f041b41c97afc24ed81490b83abd",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/169b8e53-c7a3-417b-b1f8-e2adfa490728?fit=crop&h=1152&tight=true&w=2048&s=f75f619f97168f6bbac227816297eaee8526a8ca",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-10T12:22:04Z",
+            "changes": {
+                "created": "2021-01-10T12:22:04Z",
+                "updated": "2021-01-10T18:48:25Z",
+                "firstPublished": "2021-01-10T12:22:04Z",
+                "published": "2021-01-10T12:22:04Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": true,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "small",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "gWvee5",
+                "sourceId": "100-sport",
+                "immediateArticleId": "rgzjja"
+            },
+            "access": {
+                "restrictions": [
+                    "automatic"
+                ]
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:qAJBMz",
+                "expandedUri": "https://www.aftenposten.no/sport/skiskyting/i/qAJBMz/eckhoff-kollaps-jeg-bommet-totalt"
+            },
+            "title": {
+                "value": "Eckhoff-kollaps: – Jeg bommet totalt"
+            },
+            "standfirst": {
+                "value": "Norge var lenge med i seierskampen i blandet parstafett, men skjøt seg bort. "
+            },
+            "label": {
+                "value": "SKISKYTING"
+            },
+            "text": {
+                "value": "Norge var lenge med i seierskampen i blandet parstafett, men skjøt seg bort. "
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "fef03987-00a8-4a87-91c1-6b75cad978aa",
+                    "size": {
+                        "width": 5358,
+                        "height": 3572
+                    },
+                    "hotspot": {
+                        "x": 1229,
+                        "y": 838,
+                        "width": 2729,
+                        "height": 2051
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/fef03987-00a8-4a87-91c1-6b75cad978aa?fit=crop&h=56&tight=true&w=100&s=45ee95db6d8186ccec0c6a4dd7d8db8d7592db2d",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/fef03987-00a8-4a87-91c1-6b75cad978aa?fit=crop&h=113&tight=true&w=200&s=7b22513f5546c538ed5a371bb1e141895e3dbfa6",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/fef03987-00a8-4a87-91c1-6b75cad978aa?fit=crop&h=214&tight=true&w=380&s=6147ad6a9fe7a83341b822b7b00aa90be2fd7a24",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/fef03987-00a8-4a87-91c1-6b75cad978aa?fit=crop&h=326&tight=true&w=580&s=519a598b1ed0cb3a9eabbbd80d840c7b9344cac1",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/fef03987-00a8-4a87-91c1-6b75cad978aa?fit=crop&h=439&tight=true&w=780&s=d21d8c040872967310f209656ee7469c146b0053",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/fef03987-00a8-4a87-91c1-6b75cad978aa?fit=crop&h=551&tight=true&w=980&s=6f9df5396fb8d8299ef06efce8abd26ca0b08859",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/fef03987-00a8-4a87-91c1-6b75cad978aa?fit=crop&h=576&tight=true&w=1024&s=5c93456d29701705d69cfee4ab9d118e2d55dfd1",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/fef03987-00a8-4a87-91c1-6b75cad978aa?fit=crop&h=810&tight=true&w=1440&s=57c14b8f1dc4610a2ce58fe4d0eefecaf9a462d1",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/fef03987-00a8-4a87-91c1-6b75cad978aa?fit=crop&h=1152&tight=true&w=2048&s=5e65e6a4a422013aa42acb9cad538d02ace1628e",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-10T11:38:43Z",
+            "changes": {
+                "created": "2021-01-10T11:38:43Z",
+                "updated": "2021-01-10T22:04:51Z",
+                "firstPublished": "2021-01-10T11:38:43Z",
+                "published": "2021-01-10T11:38:43Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "small",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "qAJBMz",
+                "sourceId": "100-sport",
+                "immediateArticleId": "jBOjJq"
+            },
+            "access": {
+                "restrictions": [
+                    "automatic"
+                ]
+            },
+            "authors": []
+        },
+        {
+            "type": "teaser",
+            "subtype": "medium",
+            "layout": "medium",
+            "target": {
+                "type": "link:internal",
+                "uri": "article:41bARe",
+                "expandedUri": "https://www.aftenposten.no/sport/langrenn/i/41bARe/stjerneskuddet-amundsen-imponerer-landslagseliten-han-maa-til-vm"
+            },
+            "title": {
+                "value": "Stjerneskuddet Amundsen imponerer landslagseliten: – Han må til VM"
+            },
+            "standfirst": {
+                "value": "LYGNA (VG) Norges beste utøver på 15-kilometer for øyeblikket, Sjur Røthe, nærmest krever at Harald Østberg Amundsen (22) slår følge til VM. Under norgescupen på Lygna imponerte stortalentet igjen."
+            },
+            "label": {
+                "value": "LANGRENN"
+            },
+            "text": {
+                "value": "LYGNA (VG) Norges beste utøver på 15-kilometer for øyeblikket, Sjur Røthe, nærmest krever at Harald Østberg Amundsen…"
+            },
+            "truncateText": true,
+            "image": {
+                "imageAsset": {
+                    "cropFormat": "16:9",
+                    "id": "66d42dca-f6f7-4215-8a1d-21634f3f01a8",
+                    "size": {
+                        "width": 4015,
+                        "height": 2677
+                    },
+                    "hotspot": {
+                        "x": 287,
+                        "y": 280,
+                        "width": 2516,
+                        "height": 1891
+                    },
+                    "urls": [
+                        {
+                            "url": "https://premium.vgc.no/v2/images/66d42dca-f6f7-4215-8a1d-21634f3f01a8?fit=crop&h=56&tight=true&w=100&s=839c94282b84c2b380d5eccb16c95c6e097ba95f",
+                            "width": 100,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/66d42dca-f6f7-4215-8a1d-21634f3f01a8?fit=crop&h=113&tight=true&w=200&s=e8bc005f86bc88b9fa90d8e490a640f70f399864",
+                            "width": 200,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/66d42dca-f6f7-4215-8a1d-21634f3f01a8?fit=crop&h=214&tight=true&w=380&s=6ce68aa8317b06b4fb5ce615a54d64676da992e7",
+                            "width": 380,
+                            "height": 214
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/66d42dca-f6f7-4215-8a1d-21634f3f01a8?fit=crop&h=326&tight=true&w=580&s=b386591195afcb5178f5094d5919376e50c4289e",
+                            "width": 580,
+                            "height": 326
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/66d42dca-f6f7-4215-8a1d-21634f3f01a8?fit=crop&h=439&tight=true&w=780&s=9c3c15871ab7a0def652bda9f007eb1e21859e28",
+                            "width": 780,
+                            "height": 439
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/66d42dca-f6f7-4215-8a1d-21634f3f01a8?fit=crop&h=551&tight=true&w=980&s=3fda94dd031b383298a47ac4a5f63255b2fa6b79",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/66d42dca-f6f7-4215-8a1d-21634f3f01a8?fit=crop&h=576&tight=true&w=1024&s=d449ffb1c1829697d47e164a8dccedc19df376a8",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/66d42dca-f6f7-4215-8a1d-21634f3f01a8?fit=crop&h=810&tight=true&w=1440&s=6a3391317dc4599c86629a43ddc6e5c821cc8f30",
+                            "width": 1440,
+                            "height": 810
+                        },
+                        {
+                            "url": "https://premium.vgc.no/v2/images/66d42dca-f6f7-4215-8a1d-21634f3f01a8?fit=crop&h=1152&tight=true&w=2048&s=ad581301b4aa0f59c79b429fade7a9963bdcec04",
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    ]
+                },
+                "type": "image"
+            },
+            "imagePosition": "left",
+            "timestamp": "2021-01-10T08:29:34Z",
+            "changes": {
+                "created": "2021-01-10T08:29:34Z",
+                "updated": "2021-01-10T08:45:59Z",
+                "firstPublished": "2021-01-10T08:29:34Z",
+                "published": "2021-01-10T08:29:34Z"
+            },
+            "characteristics": {
+                "lifetime": 20,
+                "hotness": 50
+            },
+            "clientProperties": {
+                "language": "nb"
+            },
+            "customProperties": {
+                "darkSkin": false,
+                "liveBlog": false,
+                "breaking": false,
+                "feature": false,
+                "commentsEnabled": "automatic",
+                "frontPageCardSize": "small",
+                "presentationType": "news",
+                "doNotBundle": false,
+                "id": "41bARe",
+                "sourceId": "100-sport",
+                "immediateArticleId": "zgMj6w"
+            },
+            "access": {
+                "restrictions": [
+                    "automatic"
+                ]
+            },
+            "authors": []
+        }
+    ]
+}
