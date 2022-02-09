@@ -4,8 +4,10 @@
         "noImplicitAny": true,
         "module": "es6",
         "target": "es5",
+        "moduleResolution": "node",
         "allowJs": true,
         "sourceMap": true,
-        "jsx": "react"
+        "jsx": "react",
+        "suppressImplicitAnyIndexErrors": true
     }
 }

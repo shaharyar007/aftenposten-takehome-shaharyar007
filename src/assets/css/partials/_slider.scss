@@ -1,0 +1,130 @@
+.owl-carousel .owl-item img {
+    display: block;
+    width: auto;
+    margin: auto;
+    height: auto;
+}
+
+.owl-dots {
+    text-align: center;
+    padding-top: 15px;
+}
+
+button.owl-dot.active {
+    background: #C4C4C4;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+button.owl-dot {
+    background: transparent;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 1px solid #C4C4C4 !important;
+    margin-left: 5px;
+}
+
+
+
+
+$carousel-height: 300px;
+$carousel-preview-width: 70;
+
+$products-amount-visible: 4;
+$product-width: 200px;
+
+$carousel-width: calc((200px * 4) + 22px);
+
+.carousel {
+  margin: 20px;
+  &__view {
+    width: $carousel-width;
+    height: $carousel-height;
+    background: white;
+    //border: solid 1px red;
+    box-shadow: 0 1px 8px #888888;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+  }
+  &__control {
+    position: absolute;
+    z-index: 1;
+    height: $carousel-height;
+    width: 70px;
+    background-color: rgba(#ddd, 0.5);
+    transition: background-color 0.3s;
+    display: table;
+    .icon {
+      display: table-cell;
+      vertical-align: middle;
+      text-align: center;
+    }
+    &:hover {
+      background-color: rgba(#ddd, 0.8);
+    }
+    &:first-of-type {
+      left: 0;
+    }
+    &:last-of-type {
+      right: 0;
+    }
+  }
+}
+.product-list {
+  position: absolute;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  transition: transform 0.3s;
+  transform: translateX(0px);
+  list-style: none;
+  height: $carousel-height;
+  width: 2000px;
+  transform: translateX(-66.66%);
+
+  //border: solid 1px black;
+
+  &__item {
+    width: calc(100% / 3);
+    height: $carousel-height;
+    //border: solid 1px green;
+    display: inline-block;
+  }
+}
+
+.product {
+  display: table;
+  height: 100%;
+  width: 100%;
+  span {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+  }
+
+  &[data-slide="1"] {
+    background-color: blue;
+  }
+  &[data-slide="2"] {
+    background-color: green;
+  }
+  &[data-slide="3"] {
+    background-color: yellow;
+  }
+  &[data-slide="4"] {
+    background-color: orange;
+  }
+  &[data-slide="5"] {
+    background-color: red;
+  }
+  &[data-slide="6"] {
+    background-color: pink;
+  }
+}
+
+

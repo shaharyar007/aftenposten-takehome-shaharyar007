@@ -1,0 +1,35 @@
+.hero{
+    background-color: #000000;
+    padding: 3rem 0;
+    .hero__container{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .hero__image{
+        width: 30%;
+    }
+    .hero__content{
+        width: 70%;
+    }
+     .hero__title{
+         font-size: 65px;
+         font-weight: bold;
+        @media (max-width:1024px){
+            font-size: 55px;
+        }
+         @media (max-width:575px){
+            font-size: 38px;
+        }
+     }
+     .hero__description{
+        font-size: 20px;
+     }
+     .hero__privacy-text{
+         font-size: 15px;
+         font-weight: 400;
+         a{
+             color: #fff;
+         }
+     }
+}

@@ -1,0 +1,141 @@
+// Variables
+$mobile : 575px;
+$tablet : 768px;
+$tablet-large : 1024px;
+$desktop : 1260px;
+
+// Header
+@media (max-width:$tablet-large) {
+    .header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 9;
+
+        .menu__list {
+            position: fixed;
+            left: 0;
+            min-width: 375px;
+            height: 100%;
+            background-color: #000;
+            margin-left: -375px;
+            transition: all 0.35s ease;
+
+            .menu__nav-link {
+                display: block;
+                border-bottom: 1px solid #ffffff41;
+
+                &.menu__primary-btn {
+                    padding: 27px;
+                }
+
+                a {
+                    padding: 22px 17px;
+                    display: block;
+
+                    &:hover {
+                        border: 0;
+                    }
+                }
+            }
+
+            &.toggle {
+                margin-left: 0;
+                transition: all 0.35s ease;
+            }
+        }
+
+        .burger-menu {
+            display: block;
+        }
+
+        .header__container {
+            flex-direction: row-reverse;
+            min-height: 70px;
+        }
+
+        &.sticky+main {
+            padding-top: 0px;
+        }
+
+        .dropdown {
+            .dropdown__caret {
+                position: absolute;
+                top: 20px;
+                right: 25px;
+            }
+
+            .dropdown__content {
+                position: unset;
+                padding: 8px 35px 15px;
+
+                a,
+                .dropdown_menu-title {
+                    padding: 5px;
+                }
+            }
+        }
+    }
+
+    // Hero
+    .hero__container {
+        flex-direction: column-reverse;
+
+        .hero__image {
+            position: absolute;
+            left: -46px;
+            top: -40px;
+        }
+
+        .hero__content {
+            max-width: 85%;
+            width: 100%;
+            padding-top: 14rem;
+
+            .hero__description {
+                font-size: 18px;
+                padding-bottom: 3rem;
+                line-height: 28px;
+            }
+        }
+    }
+
+    // Main
+
+}
+
+
+// TABLET LARGE
+@media (max-width:$tablet-large) {
+    .two-col-sec {
+        .two-col-sec__container {
+            flex-direction: column-reverse;
+            padding-top: 71rem;
+
+            .two-col-sec__right {
+                padding-left: 0;
+
+                img {
+                    width: 95%;
+                }
+            }
+
+            @media (max-width:768px) {
+                padding-top: 55rem;
+            }
+
+            @media (max-width:575px) {
+                padding-top: 33rem;
+            }
+        }
+    }
+}
+
+// DESKTOP 
+
+@media (max-width:$desktop) {
+    .container {
+        max-width: 94%;
+        width: 100%;
+    }
+}

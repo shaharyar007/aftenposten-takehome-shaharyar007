@@ -1,0 +1,131 @@
+.header {
+    background-color: black;
+
+    .header__container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        min-height: 127px;
+    }
+
+    .burger-menu {
+        display: none;
+        padding-left: 0;
+
+        &.toggle_btn {
+            img:first-child {
+                display: none;
+            }
+
+            img:last-child {
+                display: block !important;
+            }
+
+        }
+    }
+
+    .menu__list {
+        display: inline-block;
+
+        .menu__nav-link {
+            list-style: none;
+            display: inline-block;
+            padding: 0px 14px;
+
+            a {
+                padding: 50px 0px;
+                text-decoration: none;
+                color: #fff;
+                font-weight: 700;
+                font-size: 16px;
+
+                &:hover {
+                    color: #079C72;
+                    border-bottom: 3px solid #079C72;
+                }
+            }
+
+            &.menu__primary-btn {
+                a {
+                    background-color: #079C72;
+                    border-radius: 4px;
+                    padding: 15px 27px;
+                    text-transform: uppercase;
+                    font-size: 13px;
+                    transition: all 0.35s ease;
+
+                    &:hover {
+                        background-color: #ffffff;
+                        color: #079C72;
+                        border: 0;
+                        transition: all 0.35s ease;
+                    }
+                }
+            }
+
+
+        }
+    }
+
+    &.sticky {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 9;
+
+        &+main {
+            padding-top: 128px;
+        }
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+        width: 100%;
+
+        .dropdown__content {
+            display: none;
+            position: absolute;
+            background-color: #000000;
+            min-width: 195px;
+            z-index: 1;
+            top: 74px;
+            left: -50%;
+            margin: auto;
+            padding: 25px;
+
+            .dropdown_menu-title {
+                font-size: 10px;
+                font-weight: 700;
+                line-height: 12px;
+                color: #767676;
+                text-transform: uppercase;
+                padding: 12px 16px;
+
+
+            }
+
+            a {
+                color: #ffffff;
+                padding: 5px 16px;
+                text-decoration: none;
+                display: block;
+                border: 0;
+                font-size: 14px;
+                font-weight: 600;
+                line-height: 32px;
+
+                &:hover {
+                    color: #079C72;
+                    border: 0;
+                }
+            }
+        }
+
+        &:hover {
+            .dropdown__content {
+                display: block;
+            }
+        }
+    }
+}
