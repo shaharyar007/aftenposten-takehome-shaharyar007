@@ -12,19 +12,16 @@ const Footer = () =>{
         <div className="container">
         {/* Social section start  */}
            <div className="social-sec">
+           
             <div className="social-sec__col">
-               <h3 className="f-40 fwb m-0">Lorem ipsum dolor sit amet</h3>
-               <p className="f-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-            </div>
-            <div className="social-sec__col">
-                <ul className="m-0">
+                {/* <ul className="m-0">
                     <li><a href="javascript:void(0)"><img src="assets/images/im.png" alt="social-icon" /></a></li>
                     <li><a href="javascript:void(0)"><img src="assets/images/fb.png" alt="social-icon" /></a></li>
                     <li><a href="javascript:void(0)"><img src="assets/images/insta.png" alt="social-icon" /></a></li>
                     <li><a href="javascript:void(0)"><img src="assets/images/tw.png" alt="social-icon"  /></a></li>
                     <li><a href="javascript:void(0)"><img src="assets/images/in.png" alt="social-icon" /></a></li>
                     <li><a href="javascript:void(0)"><img src="assets/images/yt.png" alt="social-icon" /></a></li>
-                </ul> 
+                </ul>  */}
             </div>
      </div>
          {/* Social section End */}

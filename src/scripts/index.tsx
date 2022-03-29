@@ -4,9 +4,14 @@ import * as ReactDOM from "react-dom";
 import "../assets/css/style.scss";
 import Header from "../components/header";
 import axios from "axios";
-// import HeroComp from "../components/hero";
 import NewsSlider from "../components/newsSlider";
 import Footer from "../components/footer";
+import Home from "../components/home";
+import { BrowserRouter,
+  Route,
+  Routes,
+  Link } from 'react-router-dom';
+import Article from "../components/article";
 
 const apiUrl = "http://localhost:5000/api";
 
@@ -25,13 +30,17 @@ function App(): React.ReactElement {
 //  let json:any = JSON.parse(sport);
 // console.log(json);
     return (
-      <div>
+        <BrowserRouter>
         <Header />
-        {/* <HeroComp /> */}
-        <NewsSlider />
+        <Routes>
+       <Route  path="/" element={<Home />} />
+       <Route  path="/section/:sec_id/:id" element={<Article />} />
+       <Route  path="/section/:id" element={<NewsSlider />} /> 
+      </Routes>     
+      
         <Footer />
- 
- </div>
+        </BrowserRouter>
+
   )
 
 
